@@ -22,7 +22,7 @@ firmware.
 - Looking closely paid off: `gabi.vt` turned out to be a German re-texting of a French animation posted in 1994, and
   `chase.vt` hides its author's signature in the grass of its last frame. These findings are in [FINDINGS.md](FINDINGS.md).
 
-Next to them are **282 more files** from other sources (web pages of 1997–2000, later Usenet posts, DECUS tapes, old FTP archives, textfiles.com, …), sorted
+Next to them are **280 more files** from other sources (web pages of 1997–2000, later Usenet posts, DECUS tapes, old FTP archives, textfiles.com, …), sorted
 into one folder per source, and the 5 demonstrations of Alec Muffett's ASP (1991), compiled and run by the collector in 2026. The full
 story, and the source of every file, is in [PROVENANCE.md](PROVENANCE.md). `./play.sh -l` lists them all, folder by folder.
 
@@ -35,7 +35,7 @@ Almost all the files are from 1980–2000; `modern/` has 10 works from after 200
 |---|---|
 | `collection-1998/` | 101 files exactly as in `vt-anims.tar.gz` (only `ani.vt` and `vortex.vt` are renamed: they had no extension, `ani` and `vortex`), put together from alt.ascii-art.animation posts and the Scarecrow archive, and packed on 13 Jan 1999. 74 of them are dated 31 Dec 1998, one on 8 Jan 1999 and 26 on 13 Jan 1999. `README-1999.txt` is the original Greek (Greeklish) readme of that package. |
 | `usenet-1996/` | 8 files. 7 animations from posts that are not in `collection-1998/`: 6 decoded from posts saved in 1998 (reposts by Kai Voelcker in 1996, plus files posted by Colin Douthwaite, whose MS-DOS names are here in lower case: `BARNEY1.VT` is `barney1.vt`), and `vicki.vt` (Lyle Murphy's VICKI.ANS, posted as plain text on 1 Feb 1995; the copies found online elsewhere are damaged, see [FINDINGS.md](FINDINGS.md)). Plus `wartie.vt`, from the collector's alt.ascii-art mailbox: what Gareth Walwyn's DOS program WARTIE.EXE (posted on 24 May 1996) printed, read from its code by the collector in 2026. |
-| `usenet-1994-1999/` | 41 other animations of alt.ascii-art.animation, recovered from the asciiart.eu Usenet archive (`date_subject_mXXXX.vt`), from the collector's mailbox, or through vt100-slowcat, which converted the HTML/JavaScript animations of 1997–99 to VT files. |
+| `usenet-1994-1999/` | 40 other animations of alt.ascii-art.animation, recovered from the asciiart.eu Usenet archive (`date_subject_mXXXX.vt`), from the collector's mailbox, or through vt100-slowcat, which converted the HTML/JavaScript animations of 1997–99 to VT files. |
 | `vk-junkyard/` | 19 HTML/JavaScript animations from Veronica Karlsson's "junkyard" pages (late 1990s), converted by vt100-slowcat. |
 | `web-js-1997-1999/` | 21 JavaScript animations from the web pages of Andreas Freise (`freise-*`, 1997–98), Joan Stark (`jgs-*`, 1997–99) and Krogg (`krogg-*`, 1998–99, violent), converted by the collector frame by frame in November 2026. No pauses between frames: they are meant to be played fast, and `play.sh` plays them at 38400 baud (column `baud`), or, with `asciianm` built, the text frames, at the page's own delay. |
 | `kangaroo/` | 5 JavaScript animations from KANGAROO's "Great Ascii Art Library" (GeoCities, Wayback Machine), converted by the collector frame by frame. The other 32 of the 37 pages that were saved are the same as files of other folders, or parts of them: see [FINDINGS.md](FINDINGS.md). |
@@ -49,10 +49,10 @@ Almost all the files are from 1980–2000; `modern/` has 10 works from after 200
 | `nice-1994/` | 6 files from the NeXT archive NiCE (`ftp.nice.ch`, `vt100.anims/`, April 1994). |
 | `kermit/` | 3 VT100 demos from the Kermit archive of Columbia University. |
 | `textfiles/` | 46 files from artscene.textfiles.com/vt100 (own mirror of October 2002), titled with the textfiles.com descriptions. |
-| `grox/` | 5 files from grox.net. |
+| `grox/` | 4 files from grox.net. |
 | `maistrelis/` | 5 animations by the collector, Kostas Maistrelis (1994–1998), and `bear2`, a story by an unknown maker that he made into frames (1998). His own are drawn by hand in a text editor and played with his own players ASCIIANI (DOS) and asciianm (Linux). Converted to VT files with asciianm's own `-ansi` output. They have no pauses between frames: `play.sh` plays them fast, at 115200 baud (`bear2` at 28800; column `baud`). And `maistrelis-sig.vt`: what the three lines of C at the bottom of his Usenet signature of February 1998 printed when compiled and run; its pauses are BEL characters, so it beeps. |
 | `modern/` | 10 works and captures from after 2000, among them Asciiquarium and WeatherSpect (Kirk Baucom), the telnet Star Wars of towel.blinkenlights.nl, and Eli the Bearded's fade-out banner. |
-| `thumbs/` | 383 small pictures, one screen of each file (`thumbs/FOLDER/FILE.png`), except the 13 files with a note in the column `content`. Generated. They do not show colours, double-height or double-width lines. |
+| `thumbs/` | 381 small pictures, one screen of each file (`thumbs/FOLDER/FILE.png`), except the 13 files with a note in the column `content`. Generated. They do not show colours, double-height or double-width lines. |
 | `provenance.tsv` | **The hand-written data**: one row per file of the repository (every folder): title, creator (as the sources describe it), people (who made it, one name per person, for `CREDITS.md`), posters (who posted, reposted or collected it without making it), date, folder, origin, references, certainty, videos, the screen of the thumbnail (`thumb_at`: the screen after so many bytes; empty: chosen automatically), encoding of the bytes above 127 (`cp437`, `dec-mcs`; empty: the 8th bit is ignored), notes. Corrections go here. |
 | `index.tsv`, `index.json` | **The index**: one record per file of the repository, the same data in both (see [below](#the-index)). Title, creator, people, posters, date, certainty, videos and notes come from `provenance.tsv`; the rest is computed from the files. Generated: do not edit. |
 | `CREDITS.md` | Who made what, as far as is known: one entry per person, across all folders; then, apart, who posted, reposted or collected files they did not make. |
@@ -150,7 +150,7 @@ repository.
 
 ## The index
 
-`index.tsv` and `index.json` have one record for each of the 396 files of the repository, in the same order: folder by
+`index.tsv` and `index.json` have one record for each of the 394 files of the repository, in the same order: folder by
 folder (`collection-1998/` and `usenet-1996/` first), and by name within a folder. File names are unique across the
 repository: where a name occurs more than once, the later copy is renamed `name--xxxxxx.vt`, `xxxxxx` being the first 6
 hex digits of its md5. In `index.json`, `bytes` and `rows` are numbers, the rest strings.
@@ -184,7 +184,7 @@ hex digits of its md5. In `index.json`, `bytes` and `rows` are numbers, the rest
 ### The `vt100_features` column
 
 A value is listed when its escape sequence occurs anywhere in the file (`ESC` = byte 27). "Files" counts the files of the
-index that use it (of 396).
+index that use it (of 394).
 
 | Value | Escape sequence | What it does | Files |
 |---|---|---|---|
@@ -195,7 +195,7 @@ index that use it (of 396).
 | `dec-graphics` | `ESC(0`, or `ESC)0` together with SO (byte 14); `ESC)0` alone is often just a start-up string and is not counted | the DEC special graphics character set: line-drawing pieces, corners, blocks and a few symbols in place of lower-case letters and some punctuation | 86 |
 | `scroll-region` | `ESC[top;bottomr` | only the lines from `top` to `bottom` scroll; the rest of the screen stays still | 42 |
 | `soft-font` | `ESC P` … `{` … `ESC \` (DECDLD), or the same with the 8-bit bytes 0x90 and 0x9C | loads letters of its own design into the terminal (a downloadable character set, or soft font) and draws with them. Not a VT100 feature: it needs a VT220 or later | 2 |
-| `ansi-color` | `ESC[30m` … `ESC[37m` | foreground colour. Not a VT100 feature (the VT100 had no colour): it comes from MS-DOS ANSI.SYS and BBS art | 18 |
+| `ansi-color` | `ESC[30m` … `ESC[37m` | foreground colour. Not a VT100 feature (the VT100 had no colour): it comes from MS-DOS ANSI.SYS and BBS art | 16 |
 
 ## Corrections
 

@@ -295,6 +295,26 @@ are kept, because their bytes differ. The text frames of the 1997 post (`.txt` n
 made from the pages of the vt100-slowcat copy: 527 frames of 18 lines. They lose the colours and attributes, the text of
 the post before the first page, and the reader's own pace: 120 ms per frame, played once, is a choice made in 2026.
 
+## Drawn on a PC, posted for Unix (`usenet-1994-1999/1996-12-20_merry-christmas-and-happy-new-year_mdf97e72442.vt`)
+
+"Merry Christmas and Happy New Year", posted to alt.ascii-art.animation by "nguyen" in December 1996: a Christmas tree
+with baubles and stars under the title "HOLIDAY HOLLIDAYS". It is a still picture; what moves is only what blinks.
+
+Its bytes are those of an ANSI picture made on a PC: it starts with `ESC[?7h ESC[255D` (line wrap on, then 255 columns to
+the left, to be sure to start at the first column) and then places every character with relative moves (`ESC[nC`,
+`ESC[A`) and colour codes, many with blink (`ESC[5m`), as the ANSI editors of MS-DOS wrote their files.
+[`collection-1998/vortex.vt`](collections/collection-1998/vortex.vt) starts the same way. But the first line of the
+post says:
+
+> Type % cat in unix to see this file.
+
+So it was meant for a colour terminal on Unix, not for ANSI.SYS: by 1996 terminal emulators on Unix understood the same
+ANSI colours, and PC ANSI art travelled to them unchanged. It shows the same on both. On a real VT100 the colours are
+lost, but bold and blink, which the VT100 has, remain.
+
+[`usenet-1994-1999/nguyen-xmas.vt`](collections/usenet-1994-1999/nguyen-xmas.vt) is the same post in the copy of
+vt100-slowcat, a few bytes different.
+
 ## LOVE STORY (`collection-1998/newbeer.vt`)
 
 The title on the screen is "LOVE STORY", under the letters "d i g i t a l" in boxes, and it closes with "THE END". "Working
