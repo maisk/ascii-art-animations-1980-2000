@@ -179,6 +179,7 @@ hex digits of its md5. In `index.json`, `bytes` and `rows` are numbers, the rest
 | `kai_voelcker_repost` | `collection-1998/`, `usenet-1996/`: date Kai Voelcker reposted it to alt.ascii-art.animation (1996) |
 | `online_2026` | `collection-1998/`, `usenet-1996/`: `identical`, `variant xx%` (share of identical visible lines) or `not found` online (November 2026); `empty file`: only NUL bytes, nothing to look for (`tigercat.vt`) |
 | `online_where` | where: `tf:` textfiles.com, `ib:` ibiblio, `eli:` Eli-the-Bearded/vt100-slowcat, `ta:` orhun/theattyr |
+| `web_url` | the file's page at <https://maistrelis.com/ascii-art/vt100-animations/>, where it plays in the browser |
 
 ### The `vt100_features` column
 

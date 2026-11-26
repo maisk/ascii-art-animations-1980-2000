@@ -25,7 +25,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "15 Sep 1996 (as ani.vt.z, an MS-DOS batch file)",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/ani/"
  },
  {
   "folder": "collection-1998",
@@ -53,7 +54,8 @@
   "scarecrow_ftp_1994": "Aquarium (12 Oct 1994)",
   "kai_voelcker_repost": "23 Oct 1996",
   "online_2026": "identical",
-  "online_where": "eli:grox/aquarium.vt"
+  "online_where": "eli:grox/aquarium.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/aquarium/"
  },
  {
   "folder": "collection-1998",
@@ -81,7 +83,8 @@
   "scarecrow_ftp_1994": "Arrow (13 Apr 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "eli:grox/arrow.vt"
+  "online_where": "eli:grox/arrow.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/arrow/"
  },
  {
   "folder": "collection-1998",
@@ -109,7 +112,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:bambi.vt; eli:textfiles/bambi.vt; eli:grox/bambi.vt"
+  "online_where": "textfiles:bambi.vt; eli:textfiles/bambi.vt; eli:grox/bambi.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/bambi/"
  },
  {
   "folder": "collection-1998",
@@ -137,7 +141,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:barney.vt; eli:textfiles/barney.vt; theattyr:barney.vt"
+  "online_where": "textfiles:barney.vt; eli:textfiles/barney.vt; theattyr:barney.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/barney/"
  },
  {
   "folder": "collection-1998",
@@ -165,7 +170,8 @@
   "scarecrow_ftp_1994": "Beer (20 Jan 1994)",
   "kai_voelcker_repost": "16 Sep 1996",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:beer.vt; eli:textfiles/beer.vt; theattyr:beer.vt"
+  "online_where": "textfiles:beer.vt; eli:textfiles/beer.vt; theattyr:beer.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/beer/"
  },
  {
   "folder": "collection-1998",
@@ -193,7 +199,8 @@
   "scarecrow_ftp_1994": "Bike (21 May 1994)",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/bike/"
  },
  {
   "folder": "collection-1998",
@@ -221,7 +228,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/birthday/"
  },
  {
   "folder": "collection-1998",
@@ -249,7 +257,8 @@
   "scarecrow_ftp_1994": "Bomb1 (20 Jul 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/bomb1/"
  },
  {
   "folder": "collection-1998",
@@ -277,7 +286,8 @@
   "scarecrow_ftp_1994": "Bomb2 (18 Mar 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "variant 100%",
-  "online_where": "theattyr:bomb.vt"
+  "online_where": "theattyr:bomb.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/bomb2/"
  },
  {
   "folder": "collection-1998",
@@ -305,7 +315,8 @@
   "scarecrow_ftp_1994": "Bugsbunny (13 Mar 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:bugsbunny.vt; eli:textfiles/bugsbunny.vt; eli:grox/bugsbunn.vt"
+  "online_where": "textfiles:bugsbunny.vt; eli:textfiles/bugsbunny.vt; eli:grox/bugsbunn.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/bugsbunny/"
  },
  {
   "folder": "collection-1998",
@@ -333,7 +344,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "17 Sep 1996",
   "online_2026": "variant 100%",
-  "online_where": "eli:other/not-so-funny-bunny.vt"
+  "online_where": "eli:other/not-so-funny-bunny.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/bunny/"
  },
  {
   "folder": "collection-1998",
@@ -361,7 +373,8 @@
   "scarecrow_ftp_1994": "Cartwheel (18 Feb 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:cartwhee.vt; eli:textfiles/cartwhee.vt; eli:grox/cartweel.vt"
+  "online_where": "textfiles:cartwhee.vt; eli:textfiles/cartwhee.vt; eli:grox/cartweel.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/cartwheel/"
  },
  {
   "folder": "collection-1998",
@@ -389,7 +402,8 @@
   "scarecrow_ftp_1994": "Castle (21 May 1994)",
   "kai_voelcker_repost": "29 Aug 1996",
   "online_2026": "identical",
-  "online_where": "textfiles:castle.vt; eli:textfiles/castle.vt; theattyr:castle.vt"
+  "online_where": "textfiles:castle.vt; eli:textfiles/castle.vt; theattyr:castle.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/castle/"
  },
  {
   "folder": "collection-1998",
@@ -417,7 +431,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/cat31-v/"
  },
  {
   "folder": "collection-1998",
@@ -445,7 +460,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:cursor.vt; eli:textfiles/cursor.vt; eli:grox/cursor.vt"
+  "online_where": "textfiles:cursor.vt; eli:textfiles/cursor.vt; eli:grox/cursor.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/cert/"
  },
  {
   "folder": "collection-1998",
@@ -473,7 +489,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "17 Sep 1996",
   "online_2026": "identical",
-  "online_where": "textfiles:cert18.vt; eli:textfiles/cert18.vt; theattyr:cert18.vt"
+  "online_where": "textfiles:cert18.vt; eli:textfiles/cert18.vt; theattyr:cert18.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/cert18/"
  },
  {
   "folder": "collection-1998",
@@ -501,7 +518,8 @@
   "scarecrow_ftp_1994": "Challenger (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/challenger/"
  },
  {
   "folder": "collection-1998",
@@ -529,7 +547,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "identical",
-  "online_where": "eli:other/chase.vt"
+  "online_where": "eli:other/chase.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/chase/"
  },
  {
   "folder": "collection-1998",
@@ -557,7 +576,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "18 Sep 1996",
   "online_2026": "variant 93%",
-  "online_where": "theattyr:cowboom.vt"
+  "online_where": "theattyr:cowboom.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/cow/"
  },
  {
   "folder": "collection-1998",
@@ -585,7 +605,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:demo.vt; eli:textfiles/demo.vt; theattyr:demo.vt"
+  "online_where": "textfiles:demo.vt; eli:textfiles/demo.vt; theattyr:demo.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/demo/"
  },
  {
   "folder": "collection-1998",
@@ -613,7 +634,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "26 Oct 1996",
   "online_2026": "identical",
-  "online_where": "textfiles:dirty.vt; eli:textfiles/dirty.vt; eli:grox/dirty.vt"
+  "online_where": "textfiles:dirty.vt; eli:textfiles/dirty.vt; eli:grox/dirty.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/dirty/"
  },
  {
   "folder": "collection-1998",
@@ -641,7 +663,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "eli:grox/dodgeram.vt"
+  "online_where": "eli:grox/dodgeram.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/dodgeram/"
  },
  {
   "folder": "collection-1998",
@@ -669,7 +692,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "19 Sep 1996",
   "online_2026": "identical",
-  "online_where": "textfiles:dogs.vt; eli:textfiles/dogs.vt; eli:grox/dogs.vt"
+  "online_where": "textfiles:dogs.vt; eli:textfiles/dogs.vt; eli:grox/dogs.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/dogs/"
  },
  {
   "folder": "collection-1998",
@@ -697,7 +721,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:dont-wor.vt; ibiblio:dont-worry.vt; eli:textfiles/dont-wor.vt"
+  "online_where": "textfiles:dont-wor.vt; ibiblio:dont-worry.vt; eli:textfiles/dont-wor.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/dontwory/"
  },
  {
   "folder": "collection-1998",
@@ -725,7 +750,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/dragon-z/"
  },
  {
   "folder": "collection-1998",
@@ -753,7 +779,8 @@
   "scarecrow_ftp_1994": "Duckpaint (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:duckpaint.vt; eli:textfiles/duckpaint.vt; eli:grox/duck.vt"
+  "online_where": "textfiles:duckpaint.vt; eli:textfiles/duckpaint.vt; eli:grox/duck.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/duckpaint/"
  },
  {
   "folder": "collection-1998",
@@ -781,7 +808,8 @@
   "scarecrow_ftp_1994": "Anim (20 Jul 1994)",
   "kai_voelcker_repost": "15 Sep 1996 (as world.vt.z)",
   "online_2026": "variant 60%",
-  "online_where": "theattyr:movglobe.vt"
+  "online_where": "theattyr:movglobe.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/earth/"
  },
  {
   "folder": "collection-1998",
@@ -809,7 +837,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "variant 97%",
-  "online_where": "eli:other/eye.vt"
+  "online_where": "eli:other/eye.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/eye/"
  },
  {
   "folder": "collection-1998",
@@ -837,7 +866,8 @@
   "scarecrow_ftp_1994": "Fireworks (21 May 1994)",
   "kai_voelcker_repost": "21 Sep 1996",
   "online_2026": "identical",
-  "online_where": "textfiles:firework.vt; ibiblio:fireworks.vt; eli:textfiles/firework.vt"
+  "online_where": "textfiles:firework.vt; ibiblio:fireworks.vt; eli:textfiles/firework.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/fireworks/"
  },
  {
   "folder": "collection-1998",
@@ -865,7 +895,8 @@
   "scarecrow_ftp_1994": "Fishy-Fishy (17 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:fishy-fishy.vt; eli:textfiles/fishy-fishy.vt; theattyr:fishy-fishy.vt"
+  "online_where": "textfiles:fishy-fishy.vt; eli:textfiles/fishy-fishy.vt; theattyr:fishy-fishy.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/fish/"
  },
  {
   "folder": "collection-1998",
@@ -893,7 +924,8 @@
   "scarecrow_ftp_1994": "Fishy-Fishy (17 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:fishy-fishy.vt; eli:textfiles/fishy-fishy.vt; theattyr:fishy-fishy.vt"
+  "online_where": "textfiles:fishy-fishy.vt; eli:textfiles/fishy-fishy.vt; theattyr:fishy-fishy.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/fishy-fishy/"
  },
  {
   "folder": "collection-1998",
@@ -921,7 +953,8 @@
   "scarecrow_ftp_1994": "Fishy (13 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:fishy.vt; eli:textfiles/fishy.vt; theattyr:fishy.vt"
+  "online_where": "textfiles:fishy.vt; eli:textfiles/fishy.vt; theattyr:fishy.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/fishy/"
  },
  {
   "folder": "collection-1998",
@@ -949,7 +982,8 @@
   "scarecrow_ftp_1994": "Flatmap (15 Mar 1994)",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/flatmap/"
  },
  {
   "folder": "collection-1998",
@@ -977,7 +1011,8 @@
   "scarecrow_ftp_1994": "Flatmap2 (15 Mar 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "variant 100%",
-  "online_where": "theattyr:flatmap.vt"
+  "online_where": "theattyr:flatmap.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/flatmap2/"
  },
  {
   "folder": "collection-1998",
@@ -1005,7 +1040,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/flyaround/"
  },
  {
   "folder": "collection-1998",
@@ -1033,7 +1069,8 @@
   "scarecrow_ftp_1994": "Frogs (21 May 1994)",
   "kai_voelcker_repost": "22 Sep 1996 (as frog.vt.z)",
   "online_2026": "identical",
-  "online_where": "textfiles:frogs.vt; eli:textfiles/frogs.vt; eli:grox/frog.vt"
+  "online_where": "textfiles:frogs.vt; eli:textfiles/frogs.vt; eli:grox/frog.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/frogs/"
  },
  {
   "folder": "collection-1998",
@@ -1061,7 +1098,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "4 May 1996",
   "online_2026": "variant 100%",
-  "online_where": "eli:other/vestale.vt"
+  "online_where": "eli:other/vestale.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/gabi/"
  },
  {
   "folder": "collection-1998",
@@ -1089,7 +1127,8 @@
   "scarecrow_ftp_1994": "Glass (21 May 1994)",
   "kai_voelcker_repost": "22 Sep 1996",
   "online_2026": "identical",
-  "online_where": "textfiles:glass.vt; ibiblio:glass.vt; eli:textfiles/glass.vt"
+  "online_where": "textfiles:glass.vt; ibiblio:glass.vt; eli:textfiles/glass.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/glass/"
  },
  {
   "folder": "collection-1998",
@@ -1117,7 +1156,8 @@
   "scarecrow_ftp_1994": "Globe (23 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:globe.vt; eli:textfiles/globe.vt; eli:grox/globe.vt"
+  "online_where": "textfiles:globe.vt; eli:textfiles/globe.vt; eli:grox/globe.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/globe/"
  },
  {
   "folder": "collection-1998",
@@ -1145,7 +1185,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:movglobe.vt; eli:textfiles/movglobe.vt; eli:grox/movglobe.vt"
+  "online_where": "textfiles:movglobe.vt; eli:textfiles/movglobe.vt; eli:grox/movglobe.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/globe2/"
  },
  {
   "folder": "collection-1998",
@@ -1173,7 +1214,8 @@
   "scarecrow_ftp_1994": "Gymnast1 (20 Dec 1993)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/gymnast1/"
  },
  {
   "folder": "collection-1998",
@@ -1201,7 +1243,8 @@
   "scarecrow_ftp_1994": "Gymnast2 (20 Dec 1993)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/gymnast2/"
  },
  {
   "folder": "collection-1998",
@@ -1229,7 +1272,8 @@
   "scarecrow_ftp_1994": "Gymnast3 (20 Dec 1993)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/gymnast3/"
  },
  {
   "folder": "collection-1998",
@@ -1257,7 +1301,8 @@
   "scarecrow_ftp_1994": "Gymnast4 (20 Dec 1993)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/gymnast4/"
  },
  {
   "folder": "collection-1998",
@@ -1285,7 +1330,8 @@
   "scarecrow_ftp_1994": "Hanoi (21 Jul 1994)",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/hanoi/"
  },
  {
   "folder": "collection-1998",
@@ -1313,7 +1359,8 @@
   "scarecrow_ftp_1994": "Happy-Joy (20 Jul 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/happy-joy/"
  },
  {
   "folder": "collection-1998",
@@ -1341,7 +1388,8 @@
   "scarecrow_ftp_1994": "HappyBirthday (25 Jul 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "variant 89%",
-  "online_where": "theattyr:wineglas.vt"
+  "online_where": "theattyr:wineglas.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/happybirthday/"
  },
  {
   "folder": "collection-1998",
@@ -1369,7 +1417,8 @@
   "scarecrow_ftp_1994": "HappyNewYear (5 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/happynewyear/"
  },
  {
   "folder": "collection-1998",
@@ -1397,7 +1446,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "4 Feb 1996 (as chicks.vt.gz)",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/hatch/"
  },
  {
   "folder": "collection-1998",
@@ -1425,7 +1475,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/hkpu/"
  },
  {
   "folder": "collection-1998",
@@ -1453,7 +1504,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/jdfish/"
  },
  {
   "folder": "collection-1998",
@@ -1481,7 +1533,8 @@
   "scarecrow_ftp_1994": "JuansPlan (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:juanspla.vt; eli:textfiles/juanspla.vt; theattyr:juanspla.vt"
+  "online_where": "textfiles:juanspla.vt; eli:textfiles/juanspla.vt; theattyr:juanspla.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/juansplan/"
  },
  {
   "folder": "collection-1998",
@@ -1509,7 +1562,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "4 Feb 1996 (as jjuggle.vt.z)",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/juggle/"
  },
  {
   "folder": "collection-1998",
@@ -1537,7 +1591,8 @@
   "scarecrow_ftp_1994": "July4 (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "variant 80%",
-  "online_where": "theattyr:july.4.vt"
+  "online_where": "theattyr:july.4.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/july4/"
  },
  {
   "folder": "collection-1998",
@@ -1565,7 +1620,8 @@
   "scarecrow_ftp_1994": "Jumble (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:jumble.vt; eli:textfiles/jumble.vt; eli:grox/jumble.vt"
+  "online_where": "textfiles:jumble.vt; eli:textfiles/jumble.vt; eli:grox/jumble.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/jumble/"
  },
  {
   "folder": "collection-1998",
@@ -1593,7 +1649,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "variant 75%",
-  "online_where": "eli:other/kangaroo.vt"
+  "online_where": "eli:other/kangaroo.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/kanga/"
  },
  {
   "folder": "collection-1998",
@@ -1621,7 +1678,8 @@
   "scarecrow_ftp_1994": "Mandel2 (22 Apr 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/mandel2/"
  },
  {
   "folder": "collection-1998",
@@ -1649,7 +1707,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:mark_twain.vt; eli:textfiles/mark_twain.vt; theattyr:mark_twain.vt"
+  "online_where": "textfiles:mark_twain.vt; eli:textfiles/mark_twain.vt; theattyr:mark_twain.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/mark_twa/"
  },
  {
   "folder": "collection-1998",
@@ -1677,7 +1736,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "variant 94%",
-  "online_where": "theattyr:monkey.vt"
+  "online_where": "theattyr:monkey.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/monkey/"
  },
  {
   "folder": "collection-1998",
@@ -1705,7 +1765,8 @@
   "scarecrow_ftp_1994": "Monorail (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:monorail.vt; eli:textfiles/monorail.vt; eli:grox/monorail.vt"
+  "online_where": "textfiles:monorail.vt; eli:textfiles/monorail.vt; eli:grox/monorail.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/monorail/"
  },
  {
   "folder": "collection-1998",
@@ -1733,7 +1794,8 @@
   "scarecrow_ftp_1994": "Moon (12 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:moon.animation; eli:textfiles/moon.animation; eli:grox/moon.vt"
+  "online_where": "textfiles:moon.animation; eli:textfiles/moon.animation; eli:grox/moon.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/moon/"
  },
  {
   "folder": "collection-1998",
@@ -1761,7 +1823,8 @@
   "scarecrow_ftp_1994": "MrPumpkin (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "variant 100%",
-  "online_where": "theattyr:mr_pumpkin"
+  "online_where": "theattyr:mr_pumpkin",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/mrpumpkin/"
  },
  {
   "folder": "collection-1998",
@@ -1789,7 +1852,8 @@
   "scarecrow_ftp_1994": "NASA (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "eli:grox/nasa.vt"
+  "online_where": "eli:grox/nasa.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/nasa/"
  },
  {
   "folder": "collection-1998",
@@ -1817,7 +1881,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:newbeer.vt; eli:textfiles/newbeer.vt; eli:grox/newbeer.vt"
+  "online_where": "textfiles:newbeer.vt; eli:textfiles/newbeer.vt; eli:grox/newbeer.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/newbeer/"
  },
  {
   "folder": "collection-1998",
@@ -1845,7 +1910,8 @@
   "scarecrow_ftp_1994": "Nifty (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:nifty.vt; eli:textfiles/nifty.vt; eli:grox/nifty.vt"
+  "online_where": "textfiles:nifty.vt; eli:textfiles/nifty.vt; eli:grox/nifty.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/nifty/"
  },
  {
   "folder": "collection-1998",
@@ -1873,7 +1939,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/nika/"
  },
  {
   "folder": "collection-1998",
@@ -1901,7 +1968,8 @@
   "scarecrow_ftp_1994": "Orb (1 Jun 1994)",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/orb/"
  },
  {
   "folder": "collection-1998",
@@ -1929,7 +1997,8 @@
   "scarecrow_ftp_1994": "Outerlimits (15 Mar 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:outerlimits.vt; eli:textfiles/outerlimits.vt; theattyr:outerlimits.vt"
+  "online_where": "textfiles:outerlimits.vt; eli:textfiles/outerlimits.vt; theattyr:outerlimits.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/outerlimits/"
  },
  {
   "folder": "collection-1998",
@@ -1957,7 +2026,8 @@
   "scarecrow_ftp_1994": "Paradise (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:paradise.vt; eli:textfiles/paradise.vt; eli:grox/paradise.vt"
+  "online_where": "textfiles:paradise.vt; eli:textfiles/paradise.vt; eli:grox/paradise.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/paradise/"
  },
  {
   "folder": "collection-1998",
@@ -1985,7 +2055,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/pc/"
  },
  {
   "folder": "collection-1998",
@@ -2013,7 +2084,8 @@
   "scarecrow_ftp_1994": "Prey (10 Mar 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "variant 100%",
-  "online_where": "theattyr:prey.vt"
+  "online_where": "theattyr:prey.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/prey/"
  },
  {
   "folder": "collection-1998",
@@ -2041,7 +2113,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:prey_col.vt; eli:textfiles/prey_col.vt; eli:grox/prey_col.vt"
+  "online_where": "textfiles:prey_col.vt; eli:textfiles/prey_col.vt; eli:grox/prey_col.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/prey_col/"
  },
  {
   "folder": "collection-1998",
@@ -2069,7 +2142,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/roo/"
  },
  {
   "folder": "collection-1998",
@@ -2097,7 +2171,8 @@
   "scarecrow_ftp_1994": "Rose (17 Dec 1993)",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/rose/"
  },
  {
   "folder": "collection-1998",
@@ -2125,7 +2200,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "variant 98%",
-  "online_where": "eli:other/mike.vt"
+  "online_where": "eli:other/mike.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/sex/"
  },
  {
   "folder": "collection-1998",
@@ -2153,7 +2229,8 @@
   "scarecrow_ftp_1994": "Shamus (17 Feb 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:fishy2.vt; eli:textfiles/fishy2.vt; eli:grox/fishy.vt"
+  "online_where": "textfiles:fishy2.vt; eli:textfiles/fishy2.vt; eli:grox/fishy.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/shamus/"
  },
  {
   "folder": "collection-1998",
@@ -2181,7 +2258,8 @@
   "scarecrow_ftp_1994": "Ship (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:sship.vt; eli:textfiles/sship.vt; theattyr:sship.vt"
+  "online_where": "textfiles:sship.vt; eli:textfiles/sship.vt; theattyr:sship.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/ship/"
  },
  {
   "folder": "collection-1998",
@@ -2209,7 +2287,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:shuttle.vt; eli:textfiles/shuttle.vt; theattyr:shuttle.vt"
+  "online_where": "textfiles:shuttle.vt; eli:textfiles/shuttle.vt; theattyr:shuttle.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/shuttle/"
  },
  {
   "folder": "collection-1998",
@@ -2237,7 +2316,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/skull/"
  },
  {
   "folder": "collection-1998",
@@ -2265,7 +2345,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:skyway.vt; eli:textfiles/skyway.vt; theattyr:skyway.vt"
+  "online_where": "textfiles:skyway.vt; eli:textfiles/skyway.vt; theattyr:skyway.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/skyway/"
  },
  {
   "folder": "collection-1998",
@@ -2293,7 +2374,8 @@
   "scarecrow_ftp_1994": "Snails (27 Feb 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "eli:grox/snails.vt"
+  "online_where": "eli:grox/snails.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/snails/"
  },
  {
   "folder": "collection-1998",
@@ -2321,7 +2403,8 @@
   "scarecrow_ftp_1994": "Spinweb (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:spinweb.vt; eli:textfiles/spinweb.vt; eli:grox/spinweb.vt"
+  "online_where": "textfiles:spinweb.vt; eli:textfiles/spinweb.vt; eli:grox/spinweb.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/spinweb/"
  },
  {
   "folder": "collection-1998",
@@ -2349,7 +2432,8 @@
   "scarecrow_ftp_1994": "Ship (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:sship.vt; eli:textfiles/sship.vt; theattyr:sship.vt"
+  "online_where": "textfiles:sship.vt; eli:textfiles/sship.vt; theattyr:sship.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/sship/"
  },
  {
   "folder": "collection-1998",
@@ -2377,7 +2461,8 @@
   "scarecrow_ftp_1994": "Strike (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:strike.vt; eli:textfiles/strike.vt; theattyr:strike.vt"
+  "online_where": "textfiles:strike.vt; eli:textfiles/strike.vt; theattyr:strike.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/strike/"
  },
  {
   "folder": "collection-1998",
@@ -2405,7 +2490,8 @@
   "scarecrow_ftp_1994": "Sun (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:sun.vt; eli:textfiles/sun.vt; eli:grox/sun.vt"
+  "online_where": "textfiles:sun.vt; eli:textfiles/sun.vt; eli:grox/sun.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/sun/"
  },
  {
   "folder": "collection-1998",
@@ -2433,7 +2519,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:surf.vt; eli:textfiles/surf.vt; theattyr:surf.vt"
+  "online_where": "textfiles:surf.vt; eli:textfiles/surf.vt; theattyr:surf.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/surf/"
  },
  {
   "folder": "collection-1998",
@@ -2461,7 +2548,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/t2/"
  },
  {
   "folder": "collection-1998",
@@ -2489,7 +2577,8 @@
   "scarecrow_ftp_1994": "Tetris (13 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:tetris.vt; eli:textfiles/tetris.vt; eli:grox/tetris.vt"
+  "online_where": "textfiles:tetris.vt; eli:textfiles/tetris.vt; eli:grox/tetris.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/tetris/"
  },
  {
   "folder": "collection-1998",
@@ -2517,7 +2606,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "empty file",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/tigercat/"
  },
  {
   "folder": "collection-1998",
@@ -2545,7 +2635,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:tomorrw.vt; eli:textfiles/tomorrw.vt; theattyr:tomorrw.vt"
+  "online_where": "textfiles:tomorrw.vt; eli:textfiles/tomorrw.vt; theattyr:tomorrw.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/tomorrw/"
  },
  {
   "folder": "collection-1998",
@@ -2573,7 +2664,8 @@
   "scarecrow_ftp_1994": "Treadmill (24 Dec 1993)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:treadmill.vt; eli:textfiles/treadmill.vt; theattyr:treadmill.vt"
+  "online_where": "textfiles:treadmill.vt; eli:textfiles/treadmill.vt; theattyr:treadmill.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/treadmill/"
  },
  {
   "folder": "collection-1998",
@@ -2601,7 +2693,8 @@
   "scarecrow_ftp_1994": "Trek (19 Jan 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical (line endings/padding)",
-  "online_where": "textfiles:trek.vt; ibiblio:trek.vt; eli:textfiles/trek.vt"
+  "online_where": "textfiles:trek.vt; ibiblio:trek.vt; eli:textfiles/trek.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/trek/"
  },
  {
   "folder": "collection-1998",
@@ -2629,7 +2722,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "ibiblio:turkey.vt; eli:grox/turkey.vt"
+  "online_where": "ibiblio:turkey.vt; eli:grox/turkey.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/turkey/"
  },
  {
   "folder": "collection-1998",
@@ -2657,7 +2751,8 @@
   "scarecrow_ftp_1994": "Twilightzone (17 Mar 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:twilightzone.vt; ibiblio:twilightzone.vt; eli:textfiles/twilightzone.vt"
+  "online_where": "textfiles:twilightzone.vt; ibiblio:twilightzone.vt; eli:textfiles/twilightzone.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/twilightzone/"
  },
  {
   "folder": "collection-1998",
@@ -2685,7 +2780,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "variant 95%",
-  "online_where": "theattyr:valentin.vt"
+  "online_where": "theattyr:valentin.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/valentin/"
  },
  {
   "folder": "collection-1998",
@@ -2713,7 +2809,8 @@
   "scarecrow_ftp_1994": "VBall (21 Jul 1994)",
   "kai_voelcker_repost": "4 Feb 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/vball/"
  },
  {
   "folder": "collection-1998",
@@ -2741,7 +2838,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/vortex/"
  },
  {
   "folder": "collection-1998",
@@ -2769,7 +2867,8 @@
   "scarecrow_ftp_1994": "Wineglass (21 May 1994)",
   "kai_voelcker_repost": "",
   "online_2026": "identical",
-  "online_where": "textfiles:wineglas.vt; eli:textfiles/wineglas.vt; eli:grox/wineglas.vt"
+  "online_where": "textfiles:wineglas.vt; eli:textfiles/wineglas.vt; eli:grox/wineglas.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/wineglass/"
  },
  {
   "folder": "collection-1998",
@@ -2797,7 +2896,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "15 Sep 1996",
   "online_2026": "variant 75%",
-  "online_where": "theattyr:xmas.large"
+  "online_where": "theattyr:xmas.large",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/xmas/"
  },
  {
   "folder": "collection-1998",
@@ -2825,7 +2925,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "variant 100%",
-  "online_where": "eli:other/jxmas.vt"
+  "online_where": "eli:other/jxmas.vt",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/collection-1998/xristmas1/"
  },
  {
   "folder": "usenet-1996",
@@ -2853,7 +2954,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/barney1-vt/"
  },
  {
   "folder": "usenet-1996",
@@ -2881,7 +2983,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/castle2-vt/"
  },
  {
   "folder": "usenet-1996",
@@ -2909,7 +3012,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/moon2-vt/"
  },
  {
   "folder": "usenet-1996",
@@ -2937,7 +3041,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "20 Aug 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/reading/"
  },
  {
   "folder": "usenet-1996",
@@ -2965,7 +3070,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "14 Sep 1996",
   "online_2026": "variant (vt100-slowcat other/vestale.vt, different copy)",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/vestale/"
  },
  {
   "folder": "usenet-1996",
@@ -2993,7 +3099,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "damaged copies (vt100-slowcat grox/vicki.vt and mewbies vt_files.zip: CRLF, no ^Z, one escape sequence broken across two lines at line 1130; the vt_files.zip copy also has its colours changed). See FINDINGS.md",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/vicki/"
  },
  {
   "folder": "usenet-1996",
@@ -3021,7 +3128,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "26 Aug 1996",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/vt/"
  },
  {
   "folder": "usenet-1996",
@@ -3049,7 +3157,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "not found",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/wartie/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3077,7 +3186,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/055_dogsex/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3105,7 +3215,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/1994-02-04_merry-christmas_m65f7de9aae/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3133,7 +3244,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/1995-03-22_longest-animation_ma53a6fa076/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3161,7 +3273,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/1996-01-29_rotating-earth_md50b0cbb66/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3189,7 +3302,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/1996-04-15_test-2-mailbanner-by-steven-m-tilley-ple_m895ccb7caa/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3217,7 +3331,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/1996-12-20_merry-christmas-and-happy-new-year_mdf97e72442/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3245,7 +3360,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/1997-05-14_basketball-animation-made-in-mexico_md846c0cdc1/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3273,7 +3389,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/baseball/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3301,7 +3418,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/basketball/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3329,7 +3447,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/boomer/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3357,7 +3476,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/bunny-unda-da-sea/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3385,7 +3505,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/crash--3e0c23/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3413,7 +3534,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/diving/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3441,7 +3563,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/dragon/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3469,7 +3592,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/eye--1da09d/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3497,7 +3621,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/f117/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3525,7 +3650,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/favorite-bands/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3553,7 +3679,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/fireworks--a137ba/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3581,7 +3708,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/jxmas/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3609,7 +3737,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/kangaroo/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3637,7 +3766,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/lizard-laughing/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3665,7 +3795,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/macarena/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3693,7 +3824,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/mailbanner/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3721,7 +3853,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/mike/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3749,7 +3882,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/monkey--905d66/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3777,7 +3911,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/nguyen-xmas/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3805,7 +3940,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/nighteyes-bbs/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3833,7 +3969,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/not-so-funny-bunny/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3861,7 +3998,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/parachute/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3889,7 +4027,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/parade/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3917,7 +4056,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/rotor/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3945,7 +4085,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/sinewave/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -3973,7 +4114,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/snake/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4001,7 +4143,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/soldier-b/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4029,7 +4172,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/soldier/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4057,7 +4201,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/spider/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4085,7 +4230,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/squick/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4113,7 +4259,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/stickmen/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4141,7 +4288,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/takeoff/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4169,7 +4317,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/tossit/"
  },
  {
   "folder": "usenet-1994-1999",
@@ -4197,7 +4346,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1994-1999/vestale--e8a829/"
  },
  {
   "folder": "vk-junkyard",
@@ -4225,7 +4375,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/bikes/"
  },
  {
   "folder": "vk-junkyard",
@@ -4253,7 +4404,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/diver/"
  },
  {
   "folder": "vk-junkyard",
@@ -4281,7 +4433,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/dogandbird/"
  },
  {
   "folder": "vk-junkyard",
@@ -4309,7 +4462,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/dum--sleepycat/"
  },
  {
   "folder": "vk-junkyard",
@@ -4337,7 +4491,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/dum2--sleepycat/"
  },
  {
   "folder": "vk-junkyard",
@@ -4365,7 +4520,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/explorerexperiment/"
  },
  {
   "folder": "vk-junkyard",
@@ -4393,7 +4549,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/fighting/"
  },
  {
   "folder": "vk-junkyard",
@@ -4421,7 +4578,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/flame-war/"
  },
  {
   "folder": "vk-junkyard",
@@ -4449,7 +4607,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/flamer/"
  },
  {
   "folder": "vk-junkyard",
@@ -4477,7 +4636,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/fs_vs_colin/"
  },
  {
   "folder": "vk-junkyard",
@@ -4505,7 +4665,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/gargani/"
  },
  {
   "folder": "vk-junkyard",
@@ -4533,7 +4694,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/golfer--a9c6aa/"
  },
  {
   "folder": "vk-junkyard",
@@ -4561,7 +4723,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/joans-animated-pixie/"
  },
  {
   "folder": "vk-junkyard",
@@ -4589,7 +4752,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/jorisbunnies/"
  },
  {
   "folder": "vk-junkyard",
@@ -4617,7 +4781,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/lizard/"
  },
  {
   "folder": "vk-junkyard",
@@ -4645,7 +4810,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/mga/"
  },
  {
   "folder": "vk-junkyard",
@@ -4673,7 +4839,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/somersault/"
  },
  {
   "folder": "vk-junkyard",
@@ -4701,7 +4868,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/swimming-scene/"
  },
  {
   "folder": "vk-junkyard",
@@ -4729,7 +4897,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vk-junkyard/vk_goes_for_a_stroll/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4757,7 +4926,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/freise-fly/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4785,7 +4955,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/freise-kiss/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4813,7 +4984,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/freise-station/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4841,7 +5013,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/freise-unplugged/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4869,7 +5042,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-amntrop/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4897,7 +5071,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-buncat/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4925,7 +5100,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-cats/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4953,7 +5129,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-cry/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -4981,7 +5158,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-gogogadget/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5009,7 +5187,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-golfanim/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5037,7 +5216,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-indexjs/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5065,7 +5245,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-juggle/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5093,7 +5274,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-mlamp/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5121,7 +5303,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-monster/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5149,7 +5332,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-spnkdiv4/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5177,7 +5361,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-spnkdive/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5205,7 +5390,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/jgs-swimlap2/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5233,7 +5419,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/krogg-aliens/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5261,7 +5448,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/krogg-fire/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5289,7 +5477,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/krogg-grind/"
  },
  {
   "folder": "web-js-1997-1999",
@@ -5317,7 +5506,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/web-js-1997-1999/krogg-massacr/"
  },
  {
   "folder": "kangaroo",
@@ -5345,7 +5535,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kangaroo/condom/"
  },
  {
   "folder": "kangaroo",
@@ -5373,7 +5564,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kangaroo/elvis/"
  },
  {
   "folder": "kangaroo",
@@ -5401,7 +5593,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kangaroo/prey--977a49/"
  },
  {
   "folder": "kangaroo",
@@ -5429,7 +5622,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kangaroo/swimmer/"
  },
  {
   "folder": "kangaroo",
@@ -5457,7 +5651,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kangaroo/witch/"
  },
  {
   "folder": "bsd-1980",
@@ -5485,7 +5680,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/bsd-1980/rain/"
  },
  {
   "folder": "bsd-1980",
@@ -5513,7 +5709,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/bsd-1980/worms/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5541,7 +5738,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/bambi--932950/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5569,7 +5767,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/blob/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5597,7 +5796,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/cheers/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5625,7 +5825,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/compile_cobol/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5653,7 +5854,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/duel/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5681,7 +5883,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/fireworks--ae474a/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5709,7 +5912,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/fish--682eae/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5737,7 +5941,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/flag/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5765,7 +5970,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/go/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5793,7 +5999,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/gonzo/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5821,7 +6028,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/gsd/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5849,7 +6057,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/gun/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5877,7 +6086,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/hein/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5905,7 +6115,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/kilroy/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5933,7 +6144,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/lets-get-digital/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5961,7 +6173,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/me/"
  },
  {
   "folder": "decus-1981-1993",
@@ -5989,7 +6202,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/mercaz/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6017,7 +6231,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/mrbill/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6045,7 +6260,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/nyc-4jul/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6073,7 +6289,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/oscar/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6101,7 +6318,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/porsche/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6129,7 +6347,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/shuttle--44b6d4/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6157,7 +6376,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/storm/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6185,7 +6405,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/turtle/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6213,7 +6434,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/twilight_zone/"
  },
  {
   "folder": "decus-1981-1993",
@@ -6241,7 +6463,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/decus-1981-1993/xmas_good/"
  },
  {
   "folder": "alec_muffett_asp",
@@ -6269,7 +6492,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/alec_muffett_asp/demo1/"
  },
  {
   "folder": "alec_muffett_asp",
@@ -6297,7 +6521,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/alec_muffett_asp/demo2/"
  },
  {
   "folder": "alec_muffett_asp",
@@ -6325,7 +6550,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/alec_muffett_asp/demo3/"
  },
  {
   "folder": "alec_muffett_asp",
@@ -6353,7 +6579,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/alec_muffett_asp/demo4/"
  },
  {
   "folder": "alec_muffett_asp",
@@ -6381,7 +6608,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/alec_muffett_asp/demo5/"
  },
  {
   "folder": "sl-1992",
@@ -6409,7 +6637,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/sl-1992/sl-a/"
  },
  {
   "folder": "sl-1992",
@@ -6437,7 +6666,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/sl-1992/sl-f/"
  },
  {
   "folder": "sl-1992",
@@ -6465,7 +6695,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/sl-1992/sl-l/"
  },
  {
   "folder": "sl-1992",
@@ -6493,7 +6724,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/sl-1992/sl/"
  },
  {
   "folder": "cjrandall",
@@ -6521,7 +6753,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-bat-1/"
  },
  {
   "folder": "cjrandall",
@@ -6549,7 +6782,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-bat-2/"
  },
  {
   "folder": "cjrandall",
@@ -6577,7 +6811,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-boomer05/"
  },
  {
   "folder": "cjrandall",
@@ -6605,7 +6840,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-copter/"
  },
  {
   "folder": "cjrandall",
@@ -6633,7 +6869,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-doggy05/"
  },
  {
   "folder": "cjrandall",
@@ -6661,7 +6898,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-flaaz/"
  },
  {
   "folder": "cjrandall",
@@ -6689,7 +6927,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-flower05/"
  },
  {
   "folder": "cjrandall",
@@ -6717,7 +6956,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-piston/"
  },
  {
   "folder": "cjrandall",
@@ -6745,7 +6985,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-pop/"
  },
  {
   "folder": "cjrandall",
@@ -6773,7 +7014,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-pop53/"
  },
  {
   "folder": "cjrandall",
@@ -6801,7 +7043,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-skuz/"
  },
  {
   "folder": "cjrandall",
@@ -6829,7 +7072,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-transp/"
  },
  {
   "folder": "cjrandall",
@@ -6857,7 +7101,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-unix1-bash/"
  },
  {
   "folder": "cjrandall",
@@ -6885,7 +7130,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/cjrandall/cjr-unix1/"
  },
  {
   "folder": "llizard",
@@ -6913,7 +7159,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-anim_fishing2/"
  },
  {
   "folder": "llizard",
@@ -6941,7 +7188,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-animkite/"
  },
  {
   "folder": "llizard",
@@ -6969,7 +7217,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-animtax/"
  },
  {
   "folder": "llizard",
@@ -6997,7 +7246,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-band/"
  },
  {
   "folder": "llizard",
@@ -7025,7 +7275,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-basketb/"
  },
  {
   "folder": "llizard",
@@ -7053,7 +7304,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-basketb1on1b/"
  },
  {
   "folder": "llizard",
@@ -7081,7 +7333,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-bikeanim/"
  },
  {
   "folder": "llizard",
@@ -7109,7 +7362,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-birthday_bin/"
  },
  {
   "folder": "llizard",
@@ -7137,7 +7391,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-blader4/"
  },
  {
   "folder": "llizard",
@@ -7165,7 +7420,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-cat/"
  },
  {
   "folder": "llizard",
@@ -7193,7 +7449,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-chair/"
  },
  {
   "folder": "llizard",
@@ -7221,7 +7478,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-chariot/"
  },
  {
   "folder": "llizard",
@@ -7249,7 +7507,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-cheerleader/"
  },
  {
   "folder": "llizard",
@@ -7277,7 +7536,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-compfix/"
  },
  {
   "folder": "llizard",
@@ -7305,7 +7565,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-elphnt2jvscptanim/"
  },
  {
   "folder": "llizard",
@@ -7333,7 +7594,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-frwrk2/"
  },
  {
   "folder": "llizard",
@@ -7361,7 +7623,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-geocitwatermarkanim/"
  },
  {
   "folder": "llizard",
@@ -7389,7 +7652,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-hood_anim-1/"
  },
  {
   "folder": "llizard",
@@ -7417,7 +7681,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-hood_anim-2/"
  },
  {
   "folder": "llizard",
@@ -7445,7 +7710,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-horscantr/"
  },
  {
   "folder": "llizard",
@@ -7473,7 +7739,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-horsgallp8/"
  },
  {
   "folder": "llizard",
@@ -7501,7 +7768,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-horspronk/"
  },
  {
   "folder": "llizard",
@@ -7529,7 +7797,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-horstrot2/"
  },
  {
   "folder": "llizard",
@@ -7557,7 +7826,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-horswalk3/"
  },
  {
   "folder": "llizard",
@@ -7585,7 +7855,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-hulahoop5/"
  },
  {
   "folder": "llizard",
@@ -7613,7 +7884,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_draws/"
  },
  {
   "folder": "llizard",
@@ -7641,7 +7913,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_eats/"
  },
  {
   "folder": "llizard",
@@ -7669,7 +7942,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_juggfail/"
  },
  {
   "folder": "llizard",
@@ -7697,7 +7971,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_juggle/"
  },
  {
   "folder": "llizard",
@@ -7725,7 +8000,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_laugh/"
  },
  {
   "folder": "llizard",
@@ -7753,7 +8029,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_laugh2/"
  },
  {
   "folder": "llizard",
@@ -7781,7 +8058,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-ll_laugh3/"
  },
  {
   "folder": "llizard",
@@ -7809,7 +8087,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-llfish/"
  },
  {
   "folder": "llizard",
@@ -7837,7 +8116,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-llhaha/"
  },
  {
   "folder": "llizard",
@@ -7865,7 +8145,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-llizardhors6/"
  },
  {
   "folder": "llizard",
@@ -7893,7 +8174,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-llizardintrash/"
  },
  {
   "folder": "llizard",
@@ -7921,7 +8203,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-macarena2/"
  },
  {
   "folder": "llizard",
@@ -7949,7 +8232,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-moguls/"
  },
  {
   "folder": "llizard",
@@ -7977,7 +8261,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-mthomasanim/"
  },
  {
   "folder": "llizard",
@@ -8005,7 +8290,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-mushroom/"
  },
  {
   "folder": "llizard",
@@ -8033,7 +8319,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-mushroom2/"
  },
  {
   "folder": "llizard",
@@ -8061,7 +8348,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-nocake/"
  },
  {
   "folder": "llizard",
@@ -8089,7 +8377,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-phoenix_born/"
  },
  {
   "folder": "llizard",
@@ -8117,7 +8406,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-pianist2/"
  },
  {
   "folder": "llizard",
@@ -8145,7 +8435,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-soldier/"
  },
  {
   "folder": "llizard",
@@ -8173,7 +8464,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-spot/"
  },
  {
   "folder": "llizard",
@@ -8201,7 +8493,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-tango/"
  },
  {
   "folder": "llizard",
@@ -8229,7 +8522,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-tangodancer/"
  },
  {
   "folder": "llizard",
@@ -8257,7 +8551,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-tapdance/"
  },
  {
   "folder": "llizard",
@@ -8285,7 +8580,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-treeanim/"
  },
  {
   "folder": "llizard",
@@ -8313,7 +8609,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-treedecor/"
  },
  {
   "folder": "llizard",
@@ -8341,7 +8638,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-treedecor2/"
  },
  {
   "folder": "llizard",
@@ -8369,7 +8667,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-val98/"
  },
  {
   "folder": "llizard",
@@ -8397,7 +8696,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-windasciianim/"
  },
  {
   "folder": "llizard",
@@ -8425,7 +8725,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/llizard/ll-yoyoasciianim2a/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8453,7 +8754,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/chardemo/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8481,7 +8783,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/fish--b20548/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8509,7 +8812,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/golfer--790b80/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8537,7 +8841,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/graph/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8565,7 +8870,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/mug/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8593,7 +8899,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/opus/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8621,7 +8928,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/sig/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8649,7 +8957,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/snowing--8f285b/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8677,7 +8986,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/train/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8705,7 +9015,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/trek--f66daf/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8733,7 +9044,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/trek2/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8761,7 +9073,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/tunnel/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8789,7 +9102,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/turkey--60f3ed/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8817,7 +9131,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/valentin--9c5f23/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8845,7 +9160,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/vax/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8873,7 +9189,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/xmas10/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8901,7 +9218,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/xmas11/"
  },
  {
   "folder": "vtgraph-1992",
@@ -8929,7 +9247,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/vtgraph-1992/zone/"
  },
  {
   "folder": "nice-1994",
@@ -8957,7 +9276,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/nice-1994/bambi--752a81/"
  },
  {
   "folder": "nice-1994",
@@ -8985,7 +9305,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/nice-1994/beer--4abbf3/"
  },
  {
   "folder": "nice-1994",
@@ -9013,7 +9334,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/nice-1994/cowscene/"
  },
  {
   "folder": "nice-1994",
@@ -9041,7 +9363,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/nice-1994/declove/"
  },
  {
   "folder": "nice-1994",
@@ -9069,7 +9392,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/nice-1994/xmas--7535e3/"
  },
  {
   "folder": "nice-1994",
@@ -9097,7 +9421,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/nice-1994/xmas--d005b5/"
  },
  {
   "folder": "kermit",
@@ -9125,7 +9450,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kermit/box-umlaute/"
  },
  {
   "folder": "kermit",
@@ -9153,7 +9479,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kermit/decdemo/"
  },
  {
   "folder": "kermit",
@@ -9181,7 +9508,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/kermit/torture/"
  },
  {
   "folder": "textfiles",
@@ -9209,7 +9537,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/bambi_godzila/"
  },
  {
   "folder": "textfiles",
@@ -9237,7 +9566,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/bevis-butthead/"
  },
  {
   "folder": "textfiles",
@@ -9265,7 +9595,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/blinkeyes/"
  },
  {
   "folder": "textfiles",
@@ -9293,7 +9624,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/bomb/"
  },
  {
   "folder": "textfiles",
@@ -9321,7 +9653,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/cow--463e37/"
  },
  {
   "folder": "textfiles",
@@ -9349,7 +9682,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/cowboom/"
  },
  {
   "folder": "textfiles",
@@ -9377,7 +9711,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/crash--38b4c0/"
  },
  {
   "folder": "textfiles",
@@ -9405,7 +9740,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/delay/"
  },
  {
   "folder": "textfiles",
@@ -9433,7 +9769,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/dontworry/"
  },
  {
   "folder": "textfiles",
@@ -9461,7 +9798,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/fireworks--77a1bd/"
  },
  {
   "folder": "textfiles",
@@ -9489,7 +9827,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/flatmap--cd2c5f/"
  },
  {
   "folder": "textfiles",
@@ -9517,7 +9856,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/hallow/"
  },
  {
   "folder": "textfiles",
@@ -9545,7 +9885,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/hello/"
  },
  {
   "folder": "textfiles",
@@ -9573,7 +9914,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/july-4/"
  },
  {
   "folder": "textfiles",
@@ -9601,7 +9943,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/maingate/"
  },
  {
   "folder": "textfiles",
@@ -9629,7 +9972,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/monkey--305b28/"
  },
  {
   "folder": "textfiles",
@@ -9657,7 +10001,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/mr_pumpkin/"
  },
  {
   "folder": "textfiles",
@@ -9685,7 +10030,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/new_year/"
  },
  {
   "folder": "textfiles",
@@ -9713,7 +10059,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/pac3d/"
  },
  {
   "folder": "textfiles",
@@ -9741,7 +10088,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/peace/"
  },
  {
   "folder": "textfiles",
@@ -9769,7 +10117,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/prey--7b414c/"
  },
  {
   "folder": "textfiles",
@@ -9797,7 +10146,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/safesex/"
  },
  {
   "folder": "textfiles",
@@ -9825,7 +10175,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/snowing--0487c1/"
  },
  {
   "folder": "textfiles",
@@ -9853,7 +10204,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/snowing--72da0b/"
  },
  {
   "folder": "textfiles",
@@ -9881,7 +10233,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/startrek/"
  },
  {
   "folder": "textfiles",
@@ -9909,7 +10262,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/torturet/"
  },
  {
   "folder": "textfiles",
@@ -9937,7 +10291,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/trekvid/"
  },
  {
   "folder": "textfiles",
@@ -9965,7 +10320,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/turkey--9219ec/"
  },
  {
   "folder": "textfiles",
@@ -9993,7 +10349,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/tv/"
  },
  {
   "folder": "textfiles",
@@ -10021,7 +10378,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/valentine/"
  },
  {
   "folder": "textfiles",
@@ -10049,7 +10407,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/van_halen/"
  },
  {
   "folder": "textfiles",
@@ -10077,7 +10436,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas--f27da4/"
  },
  {
   "folder": "textfiles",
@@ -10105,7 +10465,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-00/"
  },
  {
   "folder": "textfiles",
@@ -10133,7 +10494,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-01/"
  },
  {
   "folder": "textfiles",
@@ -10161,7 +10523,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-02/"
  },
  {
   "folder": "textfiles",
@@ -10189,7 +10552,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-03/"
  },
  {
   "folder": "textfiles",
@@ -10217,7 +10581,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-04/"
  },
  {
   "folder": "textfiles",
@@ -10245,7 +10610,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-05/"
  },
  {
   "folder": "textfiles",
@@ -10273,7 +10639,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-06/"
  },
  {
   "folder": "textfiles",
@@ -10301,7 +10668,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-07/"
  },
  {
   "folder": "textfiles",
@@ -10329,7 +10697,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-08/"
  },
  {
   "folder": "textfiles",
@@ -10357,7 +10726,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas-09/"
  },
  {
   "folder": "textfiles",
@@ -10385,7 +10755,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas2/"
  },
  {
   "folder": "textfiles",
@@ -10413,7 +10784,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmas_large/"
  },
  {
   "folder": "textfiles",
@@ -10441,7 +10813,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/xmasshort/"
  },
  {
   "folder": "textfiles",
@@ -10469,7 +10842,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/textfiles/zorro/"
  },
  {
   "folder": "grox",
@@ -10497,7 +10871,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/grox/ansi/"
  },
  {
   "folder": "grox",
@@ -10525,7 +10900,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/grox/castle--3fce9a/"
  },
  {
   "folder": "grox",
@@ -10553,7 +10929,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/grox/coke/"
  },
  {
   "folder": "grox",
@@ -10581,7 +10958,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/grox/iluvu/"
  },
  {
   "folder": "grox",
@@ -10609,7 +10987,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/grox/xmas--d17061/"
  },
  {
   "folder": "maistrelis",
@@ -10637,7 +11016,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/ant/"
  },
  {
   "folder": "maistrelis",
@@ -10665,7 +11045,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/bear2/"
  },
  {
   "folder": "maistrelis",
@@ -10693,7 +11074,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/bearani/"
  },
  {
   "folder": "maistrelis",
@@ -10721,7 +11103,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/maistrelis-sig/"
  },
  {
   "folder": "maistrelis",
@@ -10749,7 +11132,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/mo/"
  },
  {
   "folder": "maistrelis",
@@ -10777,7 +11161,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/polis/"
  },
  {
   "folder": "maistrelis",
@@ -10805,7 +11190,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/maistrelis/trein/"
  },
  {
   "folder": "modern",
@@ -10833,7 +11219,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/asciiquarium/"
  },
  {
   "folder": "modern",
@@ -10861,7 +11248,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/bird-in-flight/"
  },
  {
   "folder": "modern",
@@ -10889,7 +11277,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/blinkenlights-ipv6/"
  },
  {
   "folder": "modern",
@@ -10917,7 +11306,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/digital/"
  },
  {
   "folder": "modern",
@@ -10945,7 +11335,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/epoch-skull/"
  },
  {
   "folder": "modern",
@@ -10973,7 +11364,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/fadeout/"
  },
  {
   "folder": "modern",
@@ -11001,7 +11393,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/flying/"
  },
  {
   "folder": "modern",
@@ -11029,7 +11422,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/sheep/"
  },
  {
   "folder": "modern",
@@ -11057,7 +11451,8 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/tshilp_making-of/"
  },
  {
   "folder": "modern",
@@ -11085,6 +11480,7 @@
   "scarecrow_ftp_1994": "",
   "kai_voelcker_repost": "",
   "online_2026": "",
-  "online_where": ""
+  "online_where": "",
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/modern/weatherspect/"
  }
 ]
