@@ -113,7 +113,7 @@ use a real VT100/VT102/VT220.
 
 ### Text frames
 
-141 of the animations (those made of whole frames, most of them from web pages) are also here as text frames, a `.txt`
+142 of the animations (those made of whole frames, most of them from web pages) are also here as text frames, a `.txt`
 next to the `.vt` of the same name, for `asciianm/`, the collector's C player: the same frames as the `.vt`, with the
 speed that a `.vt` cannot hold (column `txt` of the index). Where the maker is not the collector, the title and credit
 in the first line are from `provenance.tsv` or from the page. With `asciianm` built (`make`), `play.sh` plays

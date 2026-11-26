@@ -274,6 +274,27 @@ Much of the picture is also drawn with the blink attribute (`ESC[5m`). On a PC s
 colours in turn, so the picture flickers between blue and magenta. At the full speed of a PC (or of DOSBox) only the end
 can be seen: the blinking WELCOME.
 
+## A flip book for the Page Down key (`usenet-1994-1999/1997-05-14_basketball-animation-made-in-mexico_md846c0cdc1.vt`)
+
+Posted to alt.ascii-art.animation on 14 May 1997 as "Basketball animation (Made in Mexico)": "I send you a basket
+animation . It was made by a friend of my." The frames are signed "URIEL", and the last page gives his full name (Uriel
+Mauricio Gomez Robles) and an e-mail address.
+
+The file has no clear screen and no cursor moves. It is over 400 pictures of a basketball game, 17 lines each, one below the
+other, with a few colour codes (a game clock, "00:08", "00:07"..., in blinking bright white, and some reverse and red text).
+Before the first picture it says:
+
+> Press the " space bar" or the  " Av. Pag. key "
+
+"Av. Pág." (avance de página) is the Page Down key of a Spanish PC keyboard. The reader opened the file in a viewer and
+turned the pages: every page was a frame. Printed on a terminal, as `play.sh` does, it only scrolls up.
+
+vt100-slowcat made it play by putting a "home" (`ESC[H`) before every page: that copy is
+[`usenet-1994-1999/basketball.vt`](collections/usenet-1994-1999/basketball.vt) (383520 bytes against 331416). Both
+are kept, because their bytes differ. The text frames of the 1997 post (`.txt` next to it, for asciianm and the web) are
+made from the pages of the vt100-slowcat copy: 527 frames of 18 lines. They lose the colours and attributes, the text of
+the post before the first page, and the reader's own pace: 120 ms per frame, played once, is a choice made in 2026.
+
 ## LOVE STORY (`collection-1998/newbeer.vt`)
 
 The title on the screen is "LOVE STORY", under the letters "d i g i t a l" in boxes, and it closes with "THE END". "Working
