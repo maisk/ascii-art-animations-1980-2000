@@ -229,6 +229,7 @@ show_info() {
                 (cloop == "inf" ? ", over and over (given)" : k > 1 ? ", " k " times in a row" (cloop != "" ? " (given)" : " (the file\x27s own loop)") : ""))
             if (ix["txt"] != "") out("txt", ix["txt"] ": the same as text frames, for asciianm; " tinfo)
             out("videos", ix["videos"])
+            out("web_url", ix["web_url"])                     # its page on the blog, where it plays in the browser
             out("bytes", ix["bytes"]); out("md5", ix["md5"]); out("kind", ix["kind"])
             out("vt100_features", ix["vt100_features"]); out("rows", ix["rows"]); out("content", ix["content"])
             out("contains_email", ix["contains_email"]); out("found_at", ix["found_at"])
