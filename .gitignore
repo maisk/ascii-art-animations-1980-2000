@@ -1,0 +1,4 @@
+# what make leaves (make clean removes the program)
+asciianm/asciianm
+*.o
+*.dSYM/
