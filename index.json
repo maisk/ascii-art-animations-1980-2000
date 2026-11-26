@@ -2823,7 +2823,7 @@
   "posters": "",
   "date": "by 1994-09-15 (Scarecrow FAQ)",
   "certainty": "unknown",
-  "notes": "Named \"vortex\" (no extension) in vt-anims.tar.gz; renamed vortex.vt in 2026, as ani.vt, so that every file of the repository ends in .vt.",
+  "notes": "A colour ANSI animation for MS-DOS (25 lines, the block and line characters of the PC, blinking), the example of \"color and animation together\" in Bob Allison's FAQ (1994-96). It ends with a blinking WELCOME. No pauses of its own, so it plays at 57600 baud; no text frames (its colours and cursor moves would be lost). See FINDINGS.md. Named \"vortex\" (no extension) in vt-anims.tar.gz; renamed vortex.vt in 2026, as ani.vt, so that every file of the repository ends in .vt.",
   "kind": "pc-ansi",
   "vt100_features": "ansi-color",
   "rows": 25,

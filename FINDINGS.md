@@ -241,6 +241,39 @@ Nothing else is known of it: the name is not in Bob Allison's FTP listing of 13 
 1996-98. It is kept here as it is in the package. Found on 25 Nov 2026; until then it was counted among the
 files that were not found online (37, now 36).
 
+## Vortex, the colour animation of the FAQ (`collection-1998/vortex.vt`)
+
+Bob Allison's ASCII art FAQ gave this file as its example of colour and animation together. Version 3.9 of 15 Sep 1994,
+posted to alt.ascii-art.animation ([thread on asciiart.eu](https://www.asciiart.eu/archives/usenet/thread/t0e13345d45)):
+
+> o  Color Animation - For an example of color and animation together, take a
+>    look at the file called "Vortex" in the Scarecrow's FTP site.
+
+His last version, 4.9.2 of 9 Apr 1996 ([faqs/1996-04-09_allison-v4.9.2.txt](faqs/1996-04-09_allison-v4.9.2.txt)), still
+says so. "Vortex" is not in the listing of `/pub/Scarecrow/Animations` that he posted on 13 Oct 1994
+([scarecrow-ftp-1994-10-13.txt](scarecrow-ftp-1994-10-13.txt)), so it was in another directory of the site. The copy here
+is the one of `vt-anims.tar.gz`, where it was called `vortex`; the collector also had it as `VORTEX.TXT`, dated 1 Apr 1995.
+Its maker is not known, and it was found in no other collection online (November 2026).
+
+**How it plays.** It was made for the ANSI driver of an MS-DOS PC, not for the VT100: a screen of 25 lines, the block and
+line characters of the PC (code page 437), blue and magenta. It moves the cursor only by relative steps (`ESC[nA`, `B`,
+`C`, `D`) and has no pauses: on a PC its pace was that of the machine. `play.sh` plays it at 57600 baud, about 10 seconds.
+A simulation of the screen shows four parts:
+
+1. Bytes 0-15190: it clears the screen and fills it with a mottled picture of blue and magenta blocks, crossed by a
+   funnel of black lines drawn with the line characters: the vortex.
+2. Bytes 15191-36391: it goes back to the top of the screen (`ESC[24A`) and redraws the picture, and the black lines
+   shrink towards the middle of the screen until they are gone (around byte 33000).
+3. Bytes 36392-42400: after one more pass, the word WELCOME is drawn in the middle, stroke by stroke, in large letters
+   of double lines, bright blue and blinking.
+4. Bytes 42400-57605: a black window opens around WELCOME and grows to the edges of the screen, and the last columns
+   are cleared one by one. WELCOME is left alone on the black screen, blinking. The file ends with `^Z`, the
+   end-of-file mark of MS-DOS.
+
+Much of the picture is also drawn with the blink attribute (`ESC[5m`). On a PC screen a blinking block shows its two
+colours in turn, so the picture flickers between blue and magenta. At the full speed of a PC (or of DOSBox) only the end
+can be seen: the blinking WELCOME.
+
 ## LOVE STORY (`collection-1998/newbeer.vt`)
 
 The title on the screen is "LOVE STORY", under the letters "d i g i t a l" in boxes, and it closes with "THE END". "Working
