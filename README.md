@@ -33,8 +33,8 @@ Almost all the files are from 1980–2000; `modern/` has 10 works from after 200
 
 | Path | Contents |
 |---|---|
-| `collection-1998/` | 101 files exactly as in `vt-anims.tar.gz` (only the name of `ani.vt` is changed: it was `ani`), put together from alt.ascii-art.animation posts and the Scarecrow archive, and packed on 13 Jan 1999. 74 of them are dated 31 Dec 1998, one on 8 Jan 1999 and 26 on 13 Jan 1999. `README-1999.txt` is the original Greek (Greeklish) readme of that package. |
-| `usenet-1996/` | 8 files. 7 animations from posts that are not in `collection-1998/`: 6 decoded from posts saved in 1998 (reposts by Kai Voelcker in 1996, plus files posted by Colin Douthwaite), and `vicki.vt` (Lyle Murphy's VICKI.ANS, posted as plain text on 1 Feb 1995; the copies found online elsewhere are damaged, see [FINDINGS.md](FINDINGS.md)). Plus `wartie.vt`, from the collector's alt.ascii-art mailbox: what Gareth Walwyn's DOS program WARTIE.EXE (posted on 24 May 1996) printed, read from its code by the collector in 2026. |
+| `collection-1998/` | 101 files exactly as in `vt-anims.tar.gz` (only `ani.vt` and `vortex.vt` are renamed: they had no extension, `ani` and `vortex`), put together from alt.ascii-art.animation posts and the Scarecrow archive, and packed on 13 Jan 1999. 74 of them are dated 31 Dec 1998, one on 8 Jan 1999 and 26 on 13 Jan 1999. `README-1999.txt` is the original Greek (Greeklish) readme of that package. |
+| `usenet-1996/` | 8 files. 7 animations from posts that are not in `collection-1998/`: 6 decoded from posts saved in 1998 (reposts by Kai Voelcker in 1996, plus files posted by Colin Douthwaite, whose MS-DOS names are here in lower case: `BARNEY1.VT` is `barney1.vt`), and `vicki.vt` (Lyle Murphy's VICKI.ANS, posted as plain text on 1 Feb 1995; the copies found online elsewhere are damaged, see [FINDINGS.md](FINDINGS.md)). Plus `wartie.vt`, from the collector's alt.ascii-art mailbox: what Gareth Walwyn's DOS program WARTIE.EXE (posted on 24 May 1996) printed, read from its code by the collector in 2026. |
 | `usenet-1994-1999/` | 41 other animations of alt.ascii-art.animation, recovered from the asciiart.eu Usenet archive (`date_subject_mXXXX.vt`), from the collector's mailbox, or through vt100-slowcat, which converted the HTML/JavaScript animations of 1997–99 to VT files. |
 | `vk-junkyard/` | 19 HTML/JavaScript animations from Veronica Karlsson's "junkyard" pages (late 1990s), converted by vt100-slowcat. |
 | `web-js-1997-1999/` | 21 JavaScript animations from the web pages of Andreas Freise (`freise-*`, 1997–98), Joan Stark (`jgs-*`, 1997–99) and Krogg (`krogg-*`, 1998–99, violent), converted by the collector frame by frame in November 2026. No pauses between frames: they are meant to be played fast, and `play.sh` plays them at 38400 baud (column `baud`), or, with `asciianm` built, the text frames, at the page's own delay. |
@@ -94,8 +94,8 @@ Or, without installing anything, on the web: <https://maistrelis.com/ascii-art/v
 Use an **80x24** terminal. Run `reset` afterwards if the terminal is left in an odd state.
 Sixteen files need a taller screen (column `rows` of `index.tsv`; `play.sh` asks before playing them on another size,
 and `./play.sh -x` opens an xterm of the right size). Ten need **80x25**: seven made for the screen of MS-DOS
-(`usenet-1996/vicki.vt`, `collection-1998/ani.vt`, `collection-1998/t2.vt`, `collection-1998/vortex`,
-`collection-1998/barney.vt`, `usenet-1996/BARNEY1.VT`, `collection-1998/prey_col.vt`) and three web pages
+(`usenet-1996/vicki.vt`, `collection-1998/ani.vt`, `collection-1998/t2.vt`, `collection-1998/vortex.vt`,
+`collection-1998/barney.vt`, `usenet-1996/barney1.vt`, `collection-1998/prey_col.vt`) and three web pages
 (`usenet-1994-1999/spider.vt`, `kangaroo/elvis.vt`, `web-js-1997-1999/jgs-mlamp.vt`). Six are taller still:
 `maistrelis/polis.vt` (26 lines), `cjrandall/cjr-transp.vt` and `usenet-1994-1999/parachute.vt` (30),
 `usenet-1994-1999/takeoff.vt` and `web-js-1997-1999/jgs-monster.vt` (31), `web-js-1997-1999/jgs-gogogadget.vt` (32).

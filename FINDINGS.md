@@ -132,9 +132,9 @@ of a file does not count. The candidates were then played side by side at 24 and
 | `usenet-1996/vicki.vt` | 19 | correct (see VICKI.ANS above) |
 | `collection-1998/ani.vt` | 4 | correct, apart from 3 scrolls at the very end (nine empty lines); converted from a DOS batch file, see below. Found on 24 Nov 2026 by simulation only |
 | `collection-1998/t2.vt` | 150 | correct: whole frames of 25 lines; at 24 the top of every frame is a line off |
-| `collection-1998/vortex` | 2 | PC ANSI; small difference, 25 is the screen it was made on |
+| `collection-1998/vortex.vt` | 2 | PC ANSI; small difference, 25 is the screen it was made on |
 | `usenet-1994-1999/spider.vt` | 28 | correct: the web stays inside its frame (converted by vt100-slowcat from an HTML page, probably of 25 lines) |
-| `collection-1998/barney.vt`, `usenet-1996/BARNEY1.VT` | 11, 18 | correct: at 24 the line feed after line 24 of each frame slides the picture up and leaves a second "I love you..." and other remains. At 25 they scroll only before the first frame (line feeds that clear the screen) and, `BARNEY1.VT`, at the very end. Found on 25 Nov 2026 |
+| `collection-1998/barney.vt`, `usenet-1996/barney1.vt` | 11, 18 | correct: at 24 the line feed after line 24 of each frame slides the picture up and leaves a second "I love you..." and other remains. At 25 they scroll only before the first frame (line feeds that clear the screen) and, `barney1.vt`, at the very end. Found on 25 Nov 2026 |
 | `collection-1998/prey_col.vt` | 16 | correct, apart from 10 scrolls of the last screen; at 24 six frames slide up a line. CR LF and ANSI colours. Found on 25 Nov 2026 |
 
 Thirteen more files scroll just once in mid-file at 24 lines and not at 25: in `gabi.vt`, `vestale.vt` and `reading.vt` it is a

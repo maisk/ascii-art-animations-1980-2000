@@ -2814,7 +2814,7 @@
  },
  {
   "folder": "collection-1998",
-  "file": "vortex",
+  "file": "vortex.vt",
   "bytes": 57606,
   "md5": "48272fd919dfbc3a71bb9983a1a97cd8",
   "title": "",
@@ -2823,7 +2823,7 @@
   "posters": "",
   "date": "by 1994-09-15 (Scarecrow FAQ)",
   "certainty": "unknown",
-  "notes": "",
+  "notes": "Named \"vortex\" (no extension) in vt-anims.tar.gz; renamed vortex.vt in 2026, as ani.vt, so that every file of the repository ends in .vt.",
   "kind": "pc-ansi",
   "vt100_features": "ansi-color",
   "rows": 25,
@@ -2930,7 +2930,7 @@
  },
  {
   "folder": "usenet-1996",
-  "file": "BARNEY1.VT",
+  "file": "barney1.vt",
   "bytes": 9429,
   "md5": "4ea725c9692736bf918b69e70b8fecca",
   "title": "",
@@ -2939,7 +2939,7 @@
   "posters": "Colin Douthwaite (posted)",
   "date": "by 1995-04-11 (collector's copy BARNEY1.VT)",
   "certainty": "unknown",
-  "notes": "inside SLOWANSI.ZIP (James Terhune's SlowANSI), posted by Colin Douthwaite 3 Jan 1997",
+  "notes": "inside SLOWANSI.ZIP (James Terhune's SlowANSI), posted by Colin Douthwaite 3 Jan 1997. Named BARNEY1.VT in SLOWANSI.ZIP (an MS-DOS 8.3 name, in capitals); renamed barney1.vt in 2026.",
   "kind": "vt100",
   "vt100_features": "",
   "rows": 25,
@@ -2955,11 +2955,11 @@
   "kai_voelcker_repost": "",
   "online_2026": "not found",
   "online_where": "",
-  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/barney1-vt/"
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/barney1/"
  },
  {
   "folder": "usenet-1996",
-  "file": "CASTLE2.VT",
+  "file": "castle2.vt",
   "bytes": 49137,
   "md5": "79efca81ccedd74efa54753f9dd695b8",
   "title": "",
@@ -2968,7 +2968,7 @@
   "posters": "Colin Douthwaite (posted)",
   "date": "by 1994-10-01 (file date in the zip); posted 1998-04-12",
   "certainty": "unknown",
-  "notes": "posted by Colin Douthwaite 12 Apr 1998 (CASTLE2.ZIP, file dated 1 Oct 1994)",
+  "notes": "posted by Colin Douthwaite 12 Apr 1998 (CASTLE2.ZIP, file dated 1 Oct 1994). Named CASTLE2.VT in CASTLE2.ZIP (an MS-DOS 8.3 name, in capitals); renamed castle2.vt in 2026.",
   "kind": "vt100",
   "vt100_features": "",
   "rows": 24,
@@ -2984,11 +2984,11 @@
   "kai_voelcker_repost": "",
   "online_2026": "not found",
   "online_where": "",
-  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/castle2-vt/"
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/castle2/"
  },
  {
   "folder": "usenet-1996",
-  "file": "MOON2.VT",
+  "file": "moon2.vt",
   "bytes": 7343,
   "md5": "447f3d0dd4216405111df91f5b03d73c",
   "title": "",
@@ -2997,7 +2997,7 @@
   "posters": "Colin Douthwaite (posted)",
   "date": "by 1998-05-25 (post)",
   "certainty": "unknown",
-  "notes": "posted by Colin Douthwaite 25 May 1998",
+  "notes": "posted by Colin Douthwaite 25 May 1998. Named MOON2.VT in MOON2.ZIP (an MS-DOS 8.3 name, in capitals); renamed moon2.vt in 2026.",
   "kind": "vt100",
   "vt100_features": "dec-graphics",
   "rows": 24,
@@ -3013,7 +3013,7 @@
   "kai_voelcker_repost": "",
   "online_2026": "not found",
   "online_where": "",
-  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/moon2-vt/"
+  "web_url": "https://maistrelis.com/ascii-art/vt100-animations/usenet-1996/moon2/"
  },
  {
   "folder": "usenet-1996",
