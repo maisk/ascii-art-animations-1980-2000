@@ -1,0 +1,53 @@
+ARGUMENTS:13:80:100:0:Rotor - Dave Riley (from his "Ascii TV"); HTML by Kangaroo:#
+                   oooo
+                oooo
+              ooo
+             oo
+            oo
+          /    \
+         |  ()  |
+          \ __ /
+            oo
+           oo
+         ooo
+      oooo
+   oooo
+           ooo
+         ooo
+        ooo
+        oo
+        ooo __
+         o/    \
+         |  ()  |
+          \ __ /o
+               ooo
+                oo
+               ooo
+              ooo
+            ooo
+
+
+oooo
+oooo
+ oooo       __
+   oooo   /    \
+      ooo|  ()  |ooo
+          \ __ /   oooo
+                     oooo
+                      oooo
+                      oooo
+
+
+
+                      oooo
+                   oooo
+                 ooo
+            __ ooo
+          /    \o
+         |  ()  |
+         o\ __ /
+        ooo
+      ooo
+   oooo
+ oooo
+

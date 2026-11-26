@@ -1,0 +1,37 @@
+ARGUMENTS:4:80:200:0:Macarena (Mr. Asciihead learns the Macarena) - Leow Yee Ling:#
+Macarena
+    o
+   .|.
+    /\
+acarena
+    o
+   \|.
+    >\
+carena M
+    o
+   \|/
+   /<
+arena Ma
+    o
+    //
+    >\
+rena Mac
+    o
+    X
+   /<
+ena Maca
+   <o
+    \
+    >\
+na Macar
+   <o>
+    |
+   /<
+a Macare
+    o>
+   <|
+    >\
+ Macaren
+    o
+   <|>
+   /<

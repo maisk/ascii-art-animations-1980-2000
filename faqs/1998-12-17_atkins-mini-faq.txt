@@ -1,0 +1,416 @@
+Martin Atkins' mini-FAQ for ascii art
+
+
+         >-----------------------------------------------------<
+      __  ________   _______________   ____
+     /  |/  /  _/ | / /  _/ ____/   | / __ \ _
+    / /|_/ // //  |/ // // /_  / /| |/ / / /(_)
+   / /  / // // /|  // // __/ / ___ / /_/ /_   All the stuff you need for
+  /_/  /_/___/_/ |_/___/_/   /_/  |_\___\_(_)         ASCII Art!
+
+         >------------------ By Martin Atkins -----------------<
+
+         Monospaced Fonts
+                                Text Editors
+                                                         Ascii Utils
+
+         >-----------------------------------------------------<
+          __  __                                                _
+         |  \/  | ___  _ __   ___  ___ _ __   __ _  ___ ___  __| |
+         | |\/| |/ _ \| '_ \ / _ \/ __| '_ \ / _` |/ __/ _ \/ _` |
+         | |  | | (_) | | | | (_) \__ \ |_) | (_| | (_|  __/ (_| |
+         |_|  |_|\___/|_| |_|\___/|___/ .__/ \__,_|\___\___|\__,_|
+                          / _| ___  _ |_|| |_ ___
+                         | |_ / _ \| '_ \| __/ __|
+                         |  _| (_) | | | | |_\__ \
+                         |_|  \___/|_| |_|\__|___/
+
+
+Almost all ASCII art is created and intended to be viewed in a monospaced,
+or fixed width font. Find your operating system/computer on the list below
+and find a font on your system that is on the list.
+
+Windows:  FixedSys                                 (Supplied with Windows)
+          Courier New                              (Supplied with Windows)
+          Courier                                  (Supplied with Windows)
+          Lucida Console             (Supplied with Microsoft Win95 Plus!)
+          Topaz New
+          Monotype.com
+          Terminal
+          Lucida Sans Typewiter
+          OCR A Extended
+          OCRB
+          Netextmo
+          Video Console Terminal
+          Andale Mono
+          Crystal
+          HyperFont
+
+Amiga:    Topaz                                                   (In ROM)
+          Courier                             (Supplied with WorkBench 2+)
+          Pearl
+          Siesta
+          XEN                                         (Comes with MagicWB)
+          XCourier                                    (Comes with MagicWB)
+          ascii
+          tiny
+
+AppleMac: Courier
+          Monaco
+          ZTerm
+
+Acorn:    Corpus                                            (in Resources)
+          System                                            (in Resources)
+
+
+If you can`t find any of the fonts on the list, please try looking at this
+in all fonts available:
+
+iiiii iiiii iiiii iiiii|
+mmmmm mmmmm mmmmm mmmmm|
+
+In a fixed width font, both of the | symbols should match in distance from
+the left side of the screen. If you find a common font that isn`t on the
+list, please email [email protected] and tell me about it, along
+with what operating system/computer it is from.
+
+.---- To get a Monospaced/Fixed Width font in MS Outlook Express -->
+|Click Tools/ Options.
+|Click the Read tab.
+|Click the Fonts button.
+|Select Courier or another fixed width font for ALL of the listboxes.
+|Select Smallest.
+|Click OK.
+|Click OK.
+'------------------ (Thanks to aardvarko) ------------------------->
+
+
+         >------------------------------------------------------<
+                             _____         _
+                            |_   _|____  _| |_
+                              | |/ _ \ \/ / __|
+                              | |  __/>  <| |_
+                      _____   |_|\___/_/\_\\__|
+                     | ____|__| (_) |_ ___  _ __ ___
+                     |  _| / _` | | __/ _ \| '__/ __|
+                     | |__| (_| | | || (_) | |  \__ \
+                     |_____\__,_|_|\__\___/|_|  |___/
+
+
+A lot of ASCII art is made in a text editor - usually like a wordprocessor
+but without text formatting functions.
+
+Un*x:      vi
+           pico
+           emacs
+           jed
+           joe
+           ed
+           jove
+
+Windows95: Notepad                                   (Comes with Windows!)
+      /98  EDIT.COM                                  (Comes with windows!)
+           MicroEMACS
+           EditPad
+           PFE32
+           UltraEdit                                   (www.ultraedit.com)
+           TextPad                           (www.textpad.com - shareware)
+           Vim                               (www.pcisys.net/~kscott/vim/)
+
+Windows3:  Notepad                                   (Comes with Windows!)
+           MicroEMACS
+           PFE
+           UltraEdit                                   (www.ultraedit.com)
+
+MSDOS:     EDIT           (Comes with DOS 5/6 - Type EDIT at command line)
+           QEdit
+           MicroEmacs
+           GNU Emacs
+           TheDraw                                             (shareware)
+           AcidDraw                                            (shareware)
+
+Amiga:     Ed           (On Workbench Disk - run 'Ed <filename>' in shell)
+           MicroEMACS             (Supplied with Workbench on Extras disk)
+           Blacks Editor
+           CygnusEd
+           AZ
+           NotePad                   (included with Workbench 1.2 and 1.3)
+           TED                        (Included with ACID Blitz Basic 2.1)
+           SuperTED              (Included with Blitz Basic support suite)
+
+AppleMac:  Nisus
+           SimpleText                                (included with MacOS)
+           TeachText                                 (included with MacOS)
+           Saint Edit                                      (shareware $10)
+           BBEdit         (commercial but free light version is available)
+           Tex-Edit Plus                                       (shareware)
+
+Linux:     joe
+           nedit
+
+Acorn:     !Edit                                            (in Resources)
+           !Zap
+           !StrongEd
+
+Atari:     Everest
+           QED
+           Steno
+           EditPro
+
+Commodore  Zed
+   64/128: NovaPic
+
+
+         >------------------------------------------------------<
+                _    ____   ____ ___ ___
+               / \  / ___| / ___|_ _|_ _| _   _ _   _ _
+              / _ \ \___ \| |    | | | | | | | | |_(_) |___
+             / ___ \ ___) | |___ | | | | | | | | __| | / __|
+            /_/   \_\____/ \____|___|___|| |_| | |_| | \__ \
+             ---------------------------  \___/ \__|_|_|___/
+
+Some utils to help with the creation of ASCIIArt:
+
+
+Jave is the new hot thing that replaces (or
+includes) many of the other tools mentioned in this category. It requires
+Java.
+
+
+ FIGlet
+
+    This great program makes ascii 'banners' from text - the titles in
+   these lists are a good example.
+
+    A few examples:
+
+    _____ ___ ____ _      _
+   |  ___|_ _/ ___| | ___| |_
+   | |_   | | |  _| |/ _ \ __|
+   |  _|  | | |_| | |  __/ |_
+   |_|   |___\____|_|\___|\__|
+
+   88888888888 88   ,ad8888ba,  88
+   88          88  d8"'    `"8b 88              ,d
+   88          88 d8'           88              88
+   88aaaaa     88 88            88  ,adPPYba, MM88MMM
+   88"""""     88 88      88888 88 a8P_____88   88
+   88          88 Y8,        88 88 8PP"""""""   88
+   88          88  Y8a.    .a88 88 "8b,   ,aa   88,
+   88          88   `"Y88888P"  88  `"Ybbd8"'   "Y888
+
+   8"""" 8  8""""8
+   8     8  8    " e     eeee eeeee
+   8eeee 8e 8e     8     8      8
+   88    88 88  ee 8e    8eee   8e
+   88    88 88   8 88    88     88
+   88    88 88eee8 88eee 88ee   88
+
+    Various fonts are availiable (.flf files) and there are versions of
+   FIGlet for almost any operating system and computer type:
+
+       http://st-www.cs.uiuc.edu/users/chai/figlet.html
+
+       ftp://nicoh.com/pub/figle/
+
+    The windows version of FIGlet, FigWin, is still only in beta and has a
+   few bugs. Also, you dont always get the results you want without
+   experimenting with the options first.  However it does have features
+   not found in many other versions, like vertical smushing and weird line
+   fitting.
+
+    There are also many online, web based versions of FIGlet available
+   also, one of which is http://www.surfplaza.com/figlet/
+
+    If you are a DOS user, you can get a GUI for DOS FIGlet at:
+
+       http://voices.vossnet.co.uk/a/atkins/fdg.htm
+
+   which should make the running of FigDOS easier.
+
+    FIGlet+the GUI are also available from this page.
+
+    If required, I will email FigDOS and the GUI in one zip file - just
+   email [email protected] and ask!
+
+ GIFscii
+
+    GIFscii, and it`s variants, will take an image file (usually GIF) and
+   convert it to an ascii picture. The results arn`t brilliant, but can
+   serve as a good starting point for an ASCII picture.
+    Do a web search for one of these, as they are everywhere. Versions are
+   available for a wide variety of operating systems and computer types.
+
+    These conversions can be viewed as graphics using ASC2PIC, a program
+   that will basically 'draw' ascii art using grey pixels on the screen.
+    For a copy, email [email protected].
+
+Try the following URLs for a starting point
+
+     gopher://twinbrook.cis.uab.edu/1A/atools.70
+
+     ftp://ftp.wwa.com/pub/Scarecrow/Gifscii/
+
+       [URLs taken from alt.ascii-art FAQ by Matthew Thomas]
+
+                                                          
+  .- Sample output from BMP2ASC -----.           
+  |         ;$XXHXXXXXXX+.           |           
+  |      :XXXHHHHHXHHHHXXX$.         |           
+  |    /XXXXHHHXXHHHHHHHXXXH/        |           
+  |   /XXXXXHHH$HHHHHHHHHHHHH%       |           
+  |  .XXXXXXHHX$HHHHHHHHHHHHHH;      |           
+  |  ;XXXXXHX$XX$$$XHHHHHHHHXHX.     |           
+  | .$XXXH%/;;;::::;/$HHHHHHHXX;     |           
+  | =XXXHX//;;:::::;;/+HXHHHHHH$     |           
+  | /HXXH$//;;;;::::;;/$XHHHHHXX-    |           
+  | %HXXH%/;;;;;;;;+$$%$XHHHHHHX/    |           
+  | XXXXHX$X$%+//+++;$%HXHHHHHHX$.   |           
+  |.XXXXHX+/////://;///+$XHHH@HHHHH/.|           
+  |,X$XXHH%;;;;/;///;;;+$XHHH@HHHH@@@|           
+  |-X$XXH@H+/++/;/++;//%XHHHH@HHHH@@@|           
+  |=$$XXHHH@@%%$$%++++%$XXHHHHHXH@@@@|           
+  |=$$XXX$$@@@H%++++%%%$$XHXH@HH@@@@@|           
+  |=$XHXX%$@@@@@%+++%$%$$XXXHH$H@@@@@|           
+  |-+%XHHH@@@@@@@X+/+%$$$$$$%%/=$@@@@|           
+  | //XXXH@@@@@@@@@@@@X%%++///=--/H@@|           
+  |   %XXHH@@@@@@@@@@@@X+;/;;=-,,,-$@|           
+  |  =XHXHH@@@@@@@@@@@@X/,. ..-,..,,/|           
+  |  $H@@@@@@@@@@@@@@@@XH;....,......|           
+  '------------------- for Windows! -'           
+                                                          
+ ASC-TOOL
+
+    This program does rotation and flipping of ascii art. It is most
+   useful when you need a left facing ascii art to face right, or
+   something like that.
+
+ RESIZE
+
+    Performs 'pixel' resizes on ASCII Art... adding or removing
+   characters to resize the pic. The size is a percentage of the
+   original.
+
+ ASC2PIC/ASC2PIC2
+
+    This is the reverse of GIFscii... takes solid style ascii and
+   'draws' it as a picture on the screen. Good for viewing ASCII
+   conversions as the graphics they came from.
+   ASC2PIC2 extends this capability by allowing viewing of both
+   White on Black and Black on White pics to be viewed.
+
+ ASCHALF
+
+    Resamples asciiart to 50% graphically. It resamples the picture
+   as if it were a .GIF or something, and then converts it back
+   to ascii art using a similar method to GIFscii.
+
+ LGIFScii
+
+    This program attempts to take a lineart GIF pic and convert it
+   into Line Art ascii. The results arn`t great, but it can be
+   used to get the idea of a shape and then fiddle with is later.
+
+ TRIM
+
+    Removes blank spaces from the end of lines in text files. Not
+   specifically an asciiart utility but useful just the same.
+
+ ASCII-EDITOR for Windows
+
+    The author claims:
+    
+              ASCII-Pic, Pic-ASCII conversion
+              Fill with background pattern
+              Divers textimport functions
+              Invert, painting circles, center
+              Drag & Drop
+              ...
+	     
+    The program has a lot of text import functions. You could for
+   example import a text file as spiral. Nice for emails ;)
+    The program can convert pictures to ASCII art (greyscaled),
+   ASCII art to pictures.
+    Flip, rotate, resize, cut, copy, paste, ...
+    These are only a few samples of the 'ASCII-Editor' functions.
+    I have yet to try the program, so am unable to comment. I will
+   write a proper write-up for it when I try it.
+
+      http://studenten.freepage.de/meph/ascii/editor/_index.htm
+
+         The program is freeware.
+
+ TheDraw
+
+    TheDraw is primarily an ANSI editor, but is suitable for ASCII art
+   also.  It features many features not availiable in most 'standard' text
+   editors, like filling an area with a character, or dragging a block
+   around. There are many features specific to DOS ansi editing, which
+   I will not go into here.
+
+ AcidDraw
+
+   AcidDraw is a similar program developed by artists for artists. A
+   similar feel and feature set of TheDraw, but geared more towards a
+   static-screen (non-animated) drawing.  It's sole purpose in life is to
+   create ASCII and ANSI art.  Some nifty features include the ability to
+   flip screens horizontally and vertically and otherwise manipulate
+   text-based art in ways that a normal text-EDITOR simply can not do.
+   Also shareware. (And the programmer is still alive but no bugs have
+   ever been reported, to the fault of the software.)
+      [Text supplied by RaD Man]
+  
+
+        Both TheDraw and ACiDDraw latest versions are available at
+
+                http://artpacks.acid.org/programs/editors/
+
+        Please note that none of these ASCII Utils are necesary for
+             creation of ASCII Art, but merely to aid creation
+          It is totally possible to make ASCII Art in any of the
+                   editors on the 'Text Editors' list.
+        TheDraw and AcidDraw, however are editors in their own
+           right, so could be used instead of a 'traditional'
+                              text editor.
+        I have a few of these editors, but not all. If you email
+                 me and ask I`ll send it if I have it!
+        My email address is at various places in this document.
+	
+
+         >------------------------------------------------------<
+
+                .-----------------------------------------.
+                |Compiled by Martin Atkins with help from:|
+                | * Veronica Karlsson                     |
+                | * Jorn Barger                           |
+                | * Colin Douthwaite                      |
+                | * Randy Gardner                         |
+                | * Ilmari Karonen                        |
+                | * aardvarko                             |
+                | * gumby                                 |
+                | * Valentin Valciu                       |
+                | * Hayley Jane Wakenshaw                 |
+                | * llizard                               |
+                | * Sami Sihvonen                         |
+                | * Doug Wilson                           |
+                | * Brock Kevin Nambo                     |
+                | * Cipher                                |
+                | * Ben Norwood                           |
+                | * Matthew Thomas                        |
+                | * RaD Man                               |
+                | * natedac                               |
+                | * Joergen                               |
+                | * msh210                                |
+                | * stephane HAbeTT roux                  |
+                | * Dom Esplen                            |
+                | * Hilton Janfield                       |
+                | * FireDraake                            |
+                '-----------------------------------------'
+
+         >------------- Last Updated 17-12-98 -----------------<
+
+                     Also available on the web at:
+            http://www.geocities.com/SoHo/7373/minifaq.htm
+            http://www.ludd.luth.se/users/vk/q/mga_faq.html
+           http://voices.vossnet.co.uk/a/atkins/minifaq.htm
+            http://bungleandmart.home.ml.org/ascmfaq.htm

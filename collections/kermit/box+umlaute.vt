@@ -1,0 +1,12 @@
+(B)0.AThis is a test of ASCII, Latin-1, and box-drawing characters.
+
+  lqqqqqqqqqqqqqqqqqqqqqqk
+  x   Grüße aus Köln!    x
+  mqqqqqqqqqqqqqqqqqqqqqqj
+
+Above should be a box containing:
+
+  "Gr<u-umlaut><ess-zet>e aus K<o-umlaut>ln!"
+
+If you see this, your terminal implements VT220 
+character-set switching correctly.

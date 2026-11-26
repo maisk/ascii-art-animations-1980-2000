@@ -1,0 +1,42 @@
+asciianm  Ascii Animation program 
+
+v.1 PRE RELEASE (1998)
+
+v.2 28/8/2002
+asciianm.c :
+             - Dior8osi  Warnings
+             - Metafora tou field descriptor stis ka8olikes diloseis
+             - klisimo tou field descriptor kai ston termination_handler.
+             - Metafora tou orismatos speed proto meta to onoma tou arxeiou
+             - Pros8iki tis litourgias info
+             - Pros8iki tis parametrou comment (emfanizete apo to info)
+             - alagi me8odou emfanisis sti o8oni, katargisi ton display,
+               flagtimer kai pros8iki ton timer_handler, display_kare, 
+               display_file kai ton metavliton play, karef kai pid
+	     - Pros8iki dinatotitas xirismou o8onis me ansi
+             - Pros8iki dinatotitas compile xoris ncurses (mono ansi)			 
+	     - Pros8iki parametrou -v  --version (version)
+
+25/11/2026 (for the vt100-animations repository)
+timer.c :
+             - A speed of 1000 ms or more did not start the timer at all
+             - cleartimer stops the timer
+asciianm.c :
+             - SIGALRM only inside sigsuspend, the file is closed after every
+               repetition (many repetitions could crash the program)
+             - int ch in place of char ch (no end of file where char is unsigned,
+               e.g. Linux on ARM)
+             - The author's old e-mail address was removed
+             - The last frame of every pass is seen as long as the others (it was
+               seen twice as long, because the end of the file took one more tick)
+             - Keys: q quit, space pause, + and - speed
+             - The last frame stays on the screen at the end, with ncurses too; with
+               -ansi the cursor goes below it (when the output is a file: line 17, as before)
+             - The messages are in English. A change of the size of the window does
+               not start ncurses again
+timer.c, asciianm.c :
+             - Ctrl-C and the change of the size of the window do not come in the
+               middle of the drawing of a frame
+Makefile :
+             - New, without -m486. With ncurses if it is there, else ANSI only.
+               Makefile.CURSES, Makefile.ANSI and INSTALL are not here

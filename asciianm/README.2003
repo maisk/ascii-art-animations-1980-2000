@@ -1,0 +1,50 @@
+To paron programa parousiazei ascii animations
+me isodo katalila diamorfomena ascii arxeia.
+
+To programa trexei apo console H termatiko ala exei provlepsi kai gia
+ektelesi mesa apo X-win se xterm/rxvt klp
+stin periptosi argon termatikon (9600...) kalo ine na miontete 
+tin taxitita i kai na tin midenizete kanontas xrisi tis antistixis
+parametrou gia na min argei i emfanisi ton kare.
+se aftes tis periptoseis dokimaste na metatrepesete ta arxia se vt animations
+kai na ta deite me cat dite parakato sta tips
+
+se merikes periptosis exei paratiri8ei apori8misi tou termatikou meta to peras 
+tis ektelesis tou programatos ala afto exei na kanei malon me tis NCURSES.
+ean exete tetiou idous provlimata dokimaste tin parametro -ansi (sto telos
+ton parametron) pou xrisimopoiei ANSI ESCAPE SEQUENCES anti gia NCURSES.
+
+sto directory txt vriskonte ta txt animation arxeia.
+me tin parametro --info mporite na parete merikes plirofories gia ta arxeia auta.
+
+Ean 8elete na ftiaksete to dikosas ascii art animation einai arketa
+aplo, to mono pou sas xriazete einai enas kalos ascii editor (px FTE).
+xorizete to arxio se kare me sta8ero mikos (grames) me to ka8e 
+stigmiotipo tou kare kai stin sinexei trexete to programa me tis 
+kataliles parametrous.
+Stin proti grami tou arxeiou mporite na pros8esete mia sira me 
+tis parametrous gia na min tis dinete san orisma ka8e fora.
+px
+
+ARGUMENTS:40:80:100:1:sxolio:#
+24 : ari8mos gramon tou kare
+80 : mikos kare
+100 : xronos paramonis toy kare stin o8oni se ms
+1 : ari8mos epanalipseon tou kare ean ine 0 aenai epanalipsi
+sxolio : edo mporite na valete sxolia ta opia emfanizonte kai apo to programa
+         me tin xrisi tis parametrou --info
+pera apo to # ala panta stin idia grami mporite na valete epipleon sxolia
+ta opia den emfanizonte apo to --info
+  			
+oi le3i ARGUMENTS kia to simvolo # ka8os kai ta : anamesa sta orismata
+einai ipoxreotika
+episis afti tin grami min tin lavete ipopsi sto mikos tou protou kare.
+
+TIPS:
+1) Gia na vlepete to apotelesma kata tin dimiourgia tou arxeiou ri8miste ton
+editor etsi oste patontas to Page Down na sas metakinei sto epomeno kare
+etsi mporite na diatre3ete olo to arxeio kai na dite to apotelesma!
+
+2) Gia na metratepsete ena arxeio animation se vt animation xrisimopoiiste to programa
+me parametro -ansi kai kante redirect to outpout se arxio etsi exete ena vt animation
+px.   asciianm arxio.txt -ansi > arxio.vt

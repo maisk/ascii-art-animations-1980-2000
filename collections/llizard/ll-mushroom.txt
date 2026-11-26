@@ -1,0 +1,17 @@
+ARGUMENTS:2:80:200:0:mushroom in motion by PeterPunk inspired by CeeJay's mushroom...:#
+  '-(   (.)-'
+     \   (_)
+  '-(  (..)-'
+     \  (_)
+  '-( .-. )-'
+     \(_)/
+  '-(..)  )-'
+    (_)  /
+  '-(.)   )-'
+   (_)   /
+  '-(     )-'
+    (\   /
+  '-(     )-'
+     \   /
+  '-(     )-'
+     \   /)

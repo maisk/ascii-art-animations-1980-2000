@@ -1,0 +1,706 @@
+Subject: [FAQ] New to ascii art? Read me first!
+Date: Thu, 28 Oct 1999 00:35:09 GMT
+Newsgroups: alt.ascii-art
+
+********************************************************
+*** There is a wealth of information about ASCII Art ***
+***         in the ASCII Documents Archive           ***
+
+                 International Mirrors
+http://martweb.hypermart.net/ada/ (Seattle, America)
+http://www.sci.fi/~iltzu/ascii/ada/ (Helsinki, Finland)
+http://www.ludd.luth.se/~vk/q/ada/ (Luleå, Sweden)
+http://voices.vossnet.co.uk/a/atkins/ada/ (Langley, UK)
+http://website.lineone.net/~martin.atkins/ada/ (London, UK)
+
+********************************************************
+
+__  __   __     _,
+\\  \\   / ___ '||  ___  ___ __  _  _   ___    _/|_ ___
+ \\ /\\ / //_\) || // \)// \\ ||'||'|| //_\)    || // \\
+  \/  \/  \\__,_||_\\__,\\_//_||_||_||_\\__,    \|_\\_//
+
+
+         ___   __  ___  () ()      ___  _,_ _/|_
+         __\\ (/_'// \)'||'|| ==== __\\'||\) ||
+        ((_||_,_/)\\__,_||_||_    ((_||_||_  \|_
+
+
+Answers to frequently asked questions in the ASCII art Usenet groups
+*   news:alt.ascii-art
+*   news:alt.ascii-art.animation
+*   news:rec.arts.ascii
+
+Author: Matthew Thomas (mpt26 @ student . canterbury . ac . nz)
+Version: 2.0.2
+Last changed: 1998-09-19
+
+NOTE: If you are new to Usenet, please read the messages in
+news:news.announce.newusers before posting to any Usenet groups.
+
+This FAQ is regularly posted to news:alt.ascii-art and
+news:alt.ascii-art.animation. It is also available at the following
+locations.
+*   http://martweb.hypermart.net/aaafaq/aaafaq.txt
+*   http://www.geocities.com/SoHo/7373/faq.htm
+*   http://artpacks.acid.org/faqs/faq-altasciiart.html
+*   http://vibes.vossnet.co.uk/i/ighaig/ascfaq.htm
+*   http://www.stud.uni-hannover.de/~freise/ascii/faq.html
+*   http://fmf.ml.org/~shimrod/asciiart/FAQ.html
+
+This and other informational documents can be found at the ASCIIArt
+Documents Archive - URLs at the top of this posting.
+
+Contents
+--------
+
+1.  What is ASCII art?
+2.  What isn't ASCII art?
+3.  What goes on in the ASCII art Usenet groups?
+4.  How do I view ASCII art?
+5.  How do I draw my own ASCII art?
+6.  What should I know before posting ASCII art?
+7.  Can I post to ask for some text drawn in ASCII?
+8.  Can I post to ask for an ASCII art picture?
+9.  How do I get an existing picture converted to ASCII art?
+10. Can I post or use other people's ASCII art?
+11. What should I know about signature files?
+12. Where can I find more ASCII art?
+
+
+1.  What is ASCII art?
+----------------------
+
+    ASCII art is any kind of artwork -- pictures, charts, cartoons,
+    whatever -- drawn with the characters in the ASCII character set.
+
+    The ASCII (American Standard Code for Information Interchange)
+    character set is a set of 128 characters (0 to 127) which are
+    standard on almost all types of computer. The only characters used
+    in ASCII art are those with the values 32 to 126, which are shown
+    below, and 13, which represents a carriage return (new line).
+    The other characters in the ASCII character set (0-12, 13-31, and
+    127) are control codes for representing things such as `end of file'
+    and `backspace'; they should not be used in ASCII art.
+
+    032 [space] 048 0   064 @   080 P   096 `   112 p
+    033 !       049 1   065 A   081 Q   097 a   113 q
+    034 "       050 2   066 B   082 R   098 b   114 r
+    035 #       051 3   067 C   083 S   099 c   115 s
+    036 $       052 4   068 D   084 T   100 d   116 t
+    037 %       053 5   069 E   085 U   101 e   117 u
+    038 &       054 6   070 F   086 V   102 f   118 v
+    039 '       055 7   071 G   087 W   103 g   119 w
+    040 (       056 8   072 H   088 X   104 h   120 x
+    041 )       057 9   073 I   089 Y   105 i   121 y
+    042 *       058 :   074 J   090 Z   106 j   122 z
+    043 +       059 ;   075 K   091 [   107 k   123 {
+    044 ,       060 <   076 L   092 \   108 l   124 |
+    045 -       061 =   077 M   093 ]   109 m   125 }
+    046 .       062 >   078 N   094 ^   110 n   126 ~
+    047 /       063 ?   079 O   095 _   111 o
+
+    These characters are almost completely standard, except for a few
+    slight variations which you should keep in mind when drawing and
+    viewing ASCII art:
+
+    # (hash/pound):
+         a hash symbol on most computers, a pound (currency) symbol on
+         some British ones
+    | (bar):
+         a vertical line in most fonts, but in some it is split in the
+         middle
+    ^ (caret):
+         differs in size depending on the font used
+    ~ (tilde):
+         appears in the middle of the line in some fonts, at the top in
+         others
+    ' (apostrophe/single quote):
+         tilts southwest-northeast in some fonts, is vertical in others
+         (this also applies to the comma (,)).
+
+    Here's a small example of ASCII art using some of these variable
+    characters: a snow-scene paperweight, drawn by Joan Stark. How good
+    it looks will depend to some extent on which font and computer
+    system you are using to view it.
+               ____
+            .-" +' "-.
+           /.'.'A_'*`.\
+          |:.*'/\-\. ':|
+          |:.'.||"|.'*:|
+           \:~^~^~^~^:/
+            /`-....-'\
+       jgs /          \
+           `-.,____,.-'
+
+    People use ASCII art for a variety of reasons, some of which are:
+    *   it is the most universal computer art form in the world --
+        every computer system capable of displaying multi-line text can
+        display ASCII art, without needing to have a graphics mode or
+        support a particular graphics file format;
+    *   an ASCII picture is hundreds of times smaller in file size
+        than its GIF or BMP equivalent, while still giving a good idea
+        of what something looks like;
+    *   it is easy to copy from one file to another;
+    *   it's fun to do!
+
+2.  What isn't ASCII art?
+-------------------------
+
+    The following specialized artforms are not ASCII art in the `pure'
+    sense, and are not welcome in the ASCII art Usenet groups.
+
+    *   ANSI, `extended ASCII', or `high ASCII' art. Many computer
+        systems have an extended character set of 256 or more
+        characters, based on the ANSI or Unicode character sets and
+        having the first 128 characters identical to ASCII. These
+        characters should not be used in ASCII art because many types
+        of computer system do not support them, and even those that do
+        may not display them in a standard way (for example, the
+        Windows ANSI character set is different from the Macintosh ANSI
+        character set).
+
+    *   HTML art. HTML, the language used in Web pages, can be used to
+        add special effects such as colours, font size, and (ugh)
+        blinking text to ascii art, and HTML can be read by some
+        newsreaders. However, the key word here is `some'. To many
+        newsreaders, HTML art will just appear as a jumble of <TAGS> and
+        will be totally unrecognizable.
+
+        If you want to create HTML art, do so by all means, but put it
+        on a Web page and post the page address (URL) to the appropriate
+        Usenet group. Advice on how to do this can be found at
+        http://www.geocities.com/SoHo/Studios/9334/asciionpage.htm.
+
+    *   ASCII art animated using JavaScript. This relies not only on the
+        newsreader being able to display HTML, but also being able to
+        run JavaScript. As with HTML art, put it on a Web page and post
+        the address to news:alt.ascii-art.animation.
+
+
+3.  What goes on in the ASCII art Usenet groups?
+------------------------------------------------
+
+    In the ASCII art Usenet groups people discuss ASCII art, post
+    ASCII pictures, post improved versions or variations of pictures
+    other people have drawn, and generally have fun.
+
+    Types of messages which we usually enjoy seeing include:
+    *   look, here's an ASCII picture I drew ...
+    *   REQ: xyz (ie, has anyone got any ASCII pictures of xyz?)
+    *   suggestions on, or improvements of, other people's ASCII
+        pictures
+    *   hey-guys-love-your-work-type messages!
+
+    Types of messages which we usually *don't* enjoy seeing include:
+    *   messages with the subject `ASCII art' (try to be a bit more
+        informative, please)
+    *   make money fast!!! ... (yawn, yawn, snore)
+    *   heres the adress of my web site, come see it pleez (why should
+        we?)
+    *   don't read this, this is a test (that's what news:alt.test,
+        news:misc.test, and many other `test' groups are for).
+
+    There are three ASCII art Usenet groups. news:alt.ascii-art is
+    the main group, where most of the discussion takes place.
+
+    news:rec.arts.ascii is a `best-of' group, for posting the best
+    ASCII art from news:alt.ascii-art. It is a moderated group -- all
+    messages pass through an intermediary (the moderator) who checks
+    them for appropriateness before sending them to the group itself.
+    The advantage of this is that there isn't any unwanted advertising
+    in the group; however, the frequency of postings to
+    news:rec.arts.ascii is extremely low at the time of writing (it was
+    resurrected in November 1997 after the previous moderator, Bob
+    Allison (`Scarecrow') retired in December 1996).
+
+    If your news server isn't set up to allow direct posting to
+    news:rec.arts.ascii, e-mail your message to the moderator, Don
+    Bertino: bertino-@-netcom-.-com (remove the dashes first).
+
+    news:alt.ascii-art.animation is specifically for discussion and
+    postings of animated ASCII art [see Question 12].
+
+
+4.  How do I view ASCII art?
+----------------------------
+
+    If a picture you see posted to one of the ASCII art Usenet groups
+    looks a complete mess to you, don't panic. There are several
+    reasons why it may look weird.
+
+    *   If *none* of the pictures in the group look like what the
+        sender describes them as, then  you're probably using a
+        proportional font. To view (and draw) ASCII art, you must use a
+        fixed-width font -- one where all characters are the same width
+        (like on an ordinary typewriter). If you're not sure if your
+        font is fixed-width or not, check the following two lines and
+        see if they're the same length.
+
+            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii|
+            mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm|
+
+        If they aren't, find the option in your newsreader which lets
+        you specify which font to use. If you just have a choice
+        between proportional and fixed width, choose fixed width. If
+        you have a choice of which font to use, try different ones
+        until you find a fixed-width one (using the `i's and `m's above
+        as a guide). Popular fixed width fonts include Courier, Monaco,
+        Fixedsys; anything with `fixed', `terminal', or `Courier' in
+        its name will probably be fixed-width.
+
+        Some Internet Service Providers (ISPs) supply newsreaders to
+        their customers which, strange as it seems, don't allow them to
+        use a fixed-width font. If this applies to you, there's not
+        much you can do except to ask them for a newsreader which does;
+        or switch ISPs.
+
+    *   If there are a lot of almost-blank lines in the picture, then
+        the message is probably suffering from `wrapping'. This
+        wrapping may be being done by your newsreader; see if it has an
+        option called `wrap long lines' or similar, and make sure it is
+        turned off. If this doesn't work, then the wrapping was
+        probably done by the news program of the person who sent the
+        picture, in which case there's not much you can do -- everybody
+        else will be seeing the same thing.
+
+    *   If there are a lot of < and > symbols in the  picture, with
+        words like HTML, FONT COLOR, B, I, and so on inside them, then
+        the picture has been sent in HTML format [see Question 2], and
+        your newsreader does not understand HTML (most newsreaders
+        don't).
+
+    *   If you still can't work out what the picture is supposed to be,
+        try using a smaller font (if you can) and moving a couple of
+        metres away. If it still looks unrecognizable, then it's
+        probably a problem with the news program used by the person
+        who sent the message -- or maybe it's just a really bad
+        picture!
+
+
+5.  How do I draw my own ASCII art?
+-----------------------------------
+
+    You don't need a special program to draw ASCII art. It can be
+    drawn using any text editor, such as SimpleText or BBEdit in MacOS,
+    Notepad in Windows, nedit, vi, or pico in Unix, BEd or AZ in
+    AmigaOS, edit in DOS, or any of the various Emacs editors. You can
+    use a word processor to draw ASCII art, but remember: (1) use a
+    fixed-width font [see Question 4]; and (2) using any special
+    formatting (bold/italic/coloured etc) is a waste of time, as it
+    will be lost when you post the picture.
+
+    There are some features of editors and word processors which can
+    help when drawing ASCII art.
+    *   Overtype, also known as overstrike: removes the need for you to
+        constantly realign characters using the Backspace, Space, and
+        Delete keys. Try the Insert key if there is one on your
+        keyboard, or look in your program's Options or Preferences.
+    *   Rectangular copy and paste: allows you to select rectangular
+        sections of text (not just rows or parts of rows). On programs
+        which have this feature, it is usually done by holding down a
+        key such as Ctrl while selecting text.
+    *   Find/Change: allows you to change all the characters of one
+        value to another (eg change all the ~s to "s).
+
+    But before you start, a word about fonts. For ASCII art you should
+    use a fixed-width font [see Question 4], because every type of
+    computer system is guaranteed to have one, and that after all is
+    one of the main reasons ASCII art exists -- because everyone can
+    view it. Different fixed- width fonts do vary slightly in the
+    height of the characters, but for most drawings this doesn't matter
+    that much.
+
+    DON'T try to post pictures drawn in a proportional-width (ie
+    non-fixed-width) font: even if you specify the exact font you used,
+    the chances of other people being able to read it are pretty slim
+    (even `standard' proportional fonts such as Times New Roman can
+    vary in width from computer to computer).
+
+    The other thing to be aware of with fonts is the difference between
+    serif and sans serif. Here's roughly how an `m' looks in both:
+    __ __   __        __   __
+     |/  \ /  \     |/  \ /  \
+     |    |    |    |    |    |
+     |    |    |    |    |    |
+    _|_  _|_  _|_   |    |    |
+
+        Serif        Sans serif
+
+    The serif version has little strokes, or serifs, at the end of most
+    of the main strokes, while the sans serif version doesn't (sans
+    means `without'). For example, Courier is a serif font, and Monaco
+    is sans serif. This isn't often important, but if you're using a
+    sans serif font, just remember to use the vertical bar (|, above \
+    on most keyboards) to draw vertical lines, and not the capital i
+    (I), otherwise it will look weird for people using serif fonts. It
+    also means that you should think carefully before using characters
+    like L and 7 for various corners -- they won't always look that
+    good with a serif font.
+
+    One way to make drawing ASCII art easier is to type a row of spaces
+    for however wide you want your picture, and then copy this row and
+    paste it for however many rows high you think your art will get.
+    Then turn overtype on, stick your cursor somewhere in the middle,
+    and you're ready to draw.
+
+    If nothing springs to mind immediately, start with the ASCII art
+    equivalent of the stick figure:
+
+     O
+    /H\ Person
+    / \
+
+    Fiddle with it, and see what you can do ...
+
+     A                   _              o           _
+     O  Person wearing   O`            _O_         (< = Person about
+    /H\ a dunce's hat   /H\ Professor  XHX Angel   /H-' to eat a
+    / \                 / \            / \         / \  sandwich...?
+
+    Gradually you'll be able to add things like  scenery around the
+    person:
+
+     ___  ,---.
+    / __\/---. ._,
+     /  \@-.  -(_)-
+         @     ' `    Person playing a banjo
+        ,P            while sitting against a
+        d'O_,         palm tree ...
+    ____@/|/________
+    ::::@\O_,:::::::
+    ::::::::::::mt-3
+
+    Draw your cat, your toaster, your musical instruments, your
+    partner, anything that will sit still long enough -- practice
+    makes, if not perfect, then at least pretty good. Whether you do
+    small drawings (less work involved) or large ones (easier to make a
+    drawing recognizable) is up to you.
+
+    The things which give beginning ASCII artists the most trouble are
+    usually diagonal lines and circles. Here are some lines of various
+    angles:
+
+    |   |   /      ,'      ,-'     _,-'
+    |  .'  /     ,'     ,-'    _,-'
+    |  |  /    ,'    ,-'   _,-'          __..--""
+    | .' /   ,'   ,-'  _,-'      __..--""
+    | | /  ,'  ,-'  ,-'  __..--"" _______________
+
+    And here are a few circular shapes:
+                                           _____             __
+                                        .-'     `-.       ,dP""Yb,
+                                      .'           `.   ,d"      "b,
+                                     /               \  d'    _   `Y,
+                              _     ;                 ; 8     8    `b
+                    __     ,'" "`.  |                 | `b,_,aP     P
+            __    ,'  `.  /       \ ;                 ;   """"     d'
+          .'  `. /      | |       |  \               /           ,P"
+       _  |    | |      / \       /   `.           .'    a,.__,aP"
+    o (_) `.__.'  `.__.'   `.___.'      `-._____.-'       `"""''
+
+    The spiral is a good example of *anti-aliasing* -- using the
+    particular shape of some characters (especially b, d, and P) to
+    smooth the edge of a solid shape.
+
+    A final point: don't use the Tab key. Pressing Tab will go along a
+    certain number of spaces in your editor/word processor -- but that
+    `certain number' is different for different newsreaders, editors,
+    and so on, so your picture may suffer from what is known as `tab
+    damage' when other people try to view it. Just use spaces instead.
+
+    [See Question 12 for links to other tutorials on drawing ASCII
+    art.]
+
+
+6.  What should I know before posting ASCII art?
+------------------------------------------------
+
+    It doesn't matter if your ASCII art isn't particularly good; we'd
+    like to see it anyway. We won't be rude about it (although you'd
+    better tell us what it is, or we might ask :-), but if it shows
+    potential, you may find that other people will `re-diddle' it --
+    change a few characters, make it a bit better, and re-post it.
+
+    HOWEVER, there are a few things you should check before you
+    post any piece of ASCII art.
+
+    *   Are you sending it as plain text? Some news programs,
+        particularly those built in to Web browsers, read and write
+        messages in HTML (HyperText Markup Language, the language which
+        Web pages are written in). HTML allows colours and (using
+        JavaScript) animations in ASCII art, but few newsreaders
+        support it, and those which don't will show a whole lot of
+        garbage text with your picture hidden inside it.
+
+        So if you have one of these HTML-sending programs, PLEASE
+        select the option which tells it to send messages as plain text
+        only. If you have a picture which uses HTML for a particular
+        feature (such as  colours or animation), put it on a Web page,
+        and post the URL of the page to alt.ascii-art, rather than
+        posting the whole picture.
+
+    *   Is it under 72 characters wide? Most news readers can only show
+        lines which are under either 72, 76, or 80 characters wide, so
+        if your picture is wider than 72 characters it may get wrapped
+        [see Question 4). Also remove any unnecessary space characters
+        from the end of each line of the picture, to prevent lines from
+        being too long (and getting wrapped) without your realizing.
+
+    *   Have you used any control codes? Inserting control codes (ASCII
+        characters 0 to 31) in a picture can sometimes achieve
+        interesting effects on your computer screen or news reader,
+        such as reversing text, changing its colour, and so on. DO NOT
+        post any of these pictures to alt.ascii-art, for two reasons:
+
+        1.  the effects that the control codes have on your news reader
+            are almost certainly going to be  different from those on
+            the thousands of other news readers that other people use
+
+        2.  on some news readers, control codes can cause  messed up
+            displays, messages not appearing, or (in some cases) the
+            news reader crashing.
+
+    *   If your first line starts with one or more spaces, stick a
+        dummy line (such as -- or .) above it, to prevent the spaces
+        from being ignored by your news program (this only applies to
+        some news programs, and only to the first line of the
+        message).
+
+    If you're not sure about whether your message will turn out ok,
+    post it to a test group (such as news:alt.test or news:misc.test)
+    first and make sure (using a different newsreader, if you can) that
+    you can read it ok.
+
+    [See Question 10 for advice on posting someone else's ASCII art.]
+
+7.  Can I post to ask for some text drawn in ASCII?
+---------------------------------------------------
+
+    Probably not, unless we're REALLY bored. The reason for this is
+    that there is a program called Figlet which does that sort of thing
+    automatically -- you type in `Jane Smith', and you get back
+
+        ___              __,
+       ( /              (          o _/_ /
+        / __,  _   _     `.  _ _  ,  /  /_
+      _/_(_/(_/ /_(/_  (___)/ / /_(_(__/ /_
+     //
+    (/
+
+    in this and a whole lot of other fonts. The ASCII text-art produced
+    by Figlet can be quite stunning, so it's best to try it first
+    before asking for help from the newsgroup.
+
+    The Figlet home page is at
+    http://st-www.cs.uiuc.edu/users/chai/figlet.html. This site links
+    to the FTP site ftp://ftp.internexus.net/pub/figlet/, where you can
+    download versions of the program for  many different platforms.
+
+    If you have a Web browser which has form support (most browsers
+    do), you can run Figlet on the Internet by going to one of the
+    following sites and choosing your text and options on the Web page.
+    Different sites offer different options (eg multiple fonts at once,
+    justification, line length etc). Some of these sites also provide
+    an e-mail Figlet service for people with browsers which don't
+    support forms.
+
+    *    http://www.surfplaza.com/figlet/
+    *    http://wwwcn.cern.ch/~rigaut/FigletJava.html
+    *    http://www.schnoggo.com/figlet.html
+    *    http://www.inf.utfsm.cl/cgi-bin/figlet/
+    *    http://saigon.mit.edu/dinhyen/figlet/figlet.html
+    *    http://www.mediacube.de/cgi-bin/moniteurs/figlet/
+    *    http://www.sconnect.net/figlet/index.cgi
+    *    http://boulder.Colorado.EDU/~kai/figlet.html
+    *    http://www.ifi.unizh.ch/cgi-bin/bwagner/FIGLET/figlet.pl
+    *    http://www.se.cuhk.edu.hk/~mcchau3/cgi-bin/express.html
+    *    http://www.webserve.com/gateways/figletgateway.pl.
+    [Shimrod, Veronica Karlsson]
+
+    If Figlet doesn't produce the kind of results you want, THEN you
+    can post to alt.ascii-art with your request. Make sure that you
+    include:
+    *   the fact that you have already tried Figlet, or don't have
+        access to it  (otherwise you will probably just get told to use
+        it)
+    *   a description of the kind of lettering you want, along with any
+        other symbols or logos which you would like incorporated into
+        it.
+
+
+8.  Can I post to ask for an ASCII art picture?
+-----------------------------------------------
+
+     Yes, if we find it interesting. Give your request the subject
+     `REQ: xyz' if you're looking for a picture of an xyz, then in the
+     message describe more exactly what you're looking for. Generally,
+     the more specific you are, the more likely you are to get someone
+     to draw what you want: if you just say something like `can someone
+     draw me a fish' then you're not likely to get many replies,
+     because people won't be sure whether or not they're wasting their
+     time by drawing something you won't want. If you don't have Web
+     access, mention this fact, otherwise you may get replies
+     consisting only of URLs for the kind of pictures you're looking
+     for.
+
+
+9.  How do I get an existing picture converted to ASCII art?
+------------------------------------------------------------
+
+    There are computer programs available which convert graphics files
+    of a particular format (usually GIF) to ASCII art. They go by names
+    such as ascgif, gifa, gifscii, and gif2ascii. Do a Web search for
+    any of these programs to find places where you can download them.
+    Try:
+
+         gopher://twinbrook.cis.uab.edu/1A/atools.70
+         ftp://ftp.wwa.com/pub/Scarecrow/Gifscii/.
+
+    However, the output from these programs is often poor (fiddling
+    with the picture in an image-editing program beforehand may help).
+    In this case, you can post a request to news:alt.ascii-art asking
+    for someone to `asciify' it, but PLEASE DON'T POST THE PICTURE
+    ITSELF. To save downloading time for people reading the messages,
+    if possible give the URL (Web address) of the picture instead.
+
+    If you saw the picture on a Web page, you can find out its URL by
+    right-clicking on it (on the Macintosh, right-clicking,
+    Ctrl-clicking, or holding down the mouse button) and selecting
+    `Open this image' (or its equivalent for your Web browser), then
+    copy the URL from the Location bar to your news program (make sure
+    you copy it exactly).
+
+    If the picture is not on a Web site anywhere, put it up on your own
+    site (if you have one), or get a friend to put it up on their site,
+    and post the URL to alt.ascii-art. If you can't do this, post your
+    request to alt.ascii-art and wait for an artist to reply, then
+    e-mail the picture to them.
+
+
+10.  Can I post or use other people's ASCII art?
+------------------------------------------------
+
+    Don't assume that if somebody posts something to a Usenet group,
+    that gives you the right to use it however you like; copyright
+    laws still apply. For more information, see the article `Copyright
+    Myths FAQ: 10 big myths about copyright explained' in
+    news:news.announce.newusers. (It is also available at
+    http://www.clari.net/brad/copymyths.html.)
+
+    ASCII art is often an exception to this rule, though: generally,
+    ASCII artists don't mind if you copy their pictures and repost them
+    or put them on your own Web site, as long as you don't make any
+    money out of them. There are a few important conditions, however.
+
+    *   If the picture contains a few letters in one corner which don't
+        seem to be part of the picture, they're the artist's initials.
+        DO NOT remove these initials -- would you cut away the part of
+        a Van Gogh painting containing his name?  Leaving the initials
+        on is a small price to pay for being able to use the picture
+        for free.
+
+    *   If you're going to use a picture in your signature file, or in
+        a place (such as a log-in screen) which means you're going to
+        be using it a lot, you should really e-mail the artist (or post
+        to the newsgroup, if you don't know their address) and ask for
+        permission, because otherwise people may get the mistaken
+        impression that you were the one who drew the picture.
+
+    As for posting other people's ASCII art, after a discussion in
+    news:alt.ascii-art the following rules were agreed upon:
+    1.  If an ASCII ART picture has initials on it, leave them on when
+        posting it.
+    2.  If an ASCII ART picture doesn't have initials on it, mention that
+        you didn't draw it when posting it.
+    3.  If somebody posts a picture without initials and you have an
+        original copy with initials, feel free to repost the original
+        version. The repost ought not to be taken personally, as we all
+        know that ASCII art often loses proper credits. Responses to the
+        repost are not necessary.
+    [Donovan]
+
+11.  What should I know about signature files?
+----------------------------------------------
+
+    A signature file (or `sig' for short; not to be confused with the
+    initials added to an ASCII picture) is a small, personalized text
+    file which an e-mail or news program adds to the end of every
+    message a person sends -- the equivalent of a letterhead for
+    dead-tree (paper) mail. Usually it contains little more than the
+    person's name, organization, and e-mail address, and an
+    inspirational quote of some sort; but some people like to
+    incorporate ASCII art into their signature files as well.
+
+    The biggest problem that this causes is the number of lines that
+    the signature file takes up. This is a topic which, despite its
+    lack of importance in relation to global warming, violence in
+    society, and so on, can be the subject of heated arguments. To be
+    brief, (almost) no-one will complain if your signature file is four
+    lines long or fewer -- and it is quite possible to draw good ASCII
+    pictures which are that small. Some examples are at:
+
+    *   http://wwwtios.cs.utwente.nl/~kenter/sigs.html
+    *   http://www.geocities.com/SoHo/7373/sigs.htm.
+
+    Some e-mail programs don't allow you to have a signature file which
+    is longer than four lines, while others just complain. Five or six
+    lines is usually acceptable, but  any longer, and you're starting to
+    take the risk that your signature will be longer than some of your
+    e-mail messages; this wouldn't really make sense on paper, so it
+    isn't really acceptable in cyberspace either. The exception is in
+    messages posted to news:alt.ascii-art itself -- we're used to seeing
+    long sigs, so we won't complain.
+
+    But no matter what the length of your signature, make sure it's
+    fewer than 72 characters wide, otherwise it may end up a horrible
+    mess [see Question 6].
+
+12. Where can I find more ASCII art?
+------------------------------------
+
+    Lots of ASCII artists put up libraries of their own and others'
+    ASCII art on their Web sites, as well as tutorials on how to draw
+    ASCII art. Allen Mullen has links to many of these sites at
+    http://www.geocities.com/SoHo/2695/links.htm.
+
+    Yahoo also has a page dedicated to ASCII art, at
+    http://www.yahoo.com/Arts/Visual_Arts/Computer_Generated/ASCII_Art/.
+    And try Joan Stark's Web site: http://www.geocities.com/SoHo/7373/.
+
+    To find out how to animate ASCII art using JavaScript, see
+    http://www.geocities.com/SouthBeach/Marina/4942/faq_hta.htm and
+    http://www.geocities.com/SoHo/Studios/9334/animlesson.htm.
+
+
+THE END
+
+
+This document may be freely copied as long as Matthew Thomas is
+identified as the original author.
+
+
+-------------------THE ASCII ART FAQ TEN COMMANDMENTS-------------------
+
+           \\\\`///
+           /  _  _|                  1. Thou shalt read the FAQ.
+          (\'('\/')                  2. Thou shalt not remove the
+    ______/(    >(__                     initials from any ASCII art.
+   /`-    \ \_=__| `\                3. Thou shalt not claim ownership
+  /       /__(  _____\  _____            of someone else's ASCII art.
+ /_ \.____    ,"     "."     ",__    4. Thou shalt read the FAQ.
+|    /   _\__/_       -       /  \   5. Thou shalt ask permission
+\/      /____  \ASCII ART FAQ  ///       before using someone else's
+ )     / /   \__\     -        |         ASCII art.
+ '-.__|_/    ///| I      VI    |     6. Thou shalt not sell someone
+      \_     |        |        |         else's ASCII art.
+        |    |   II      VII   |     7. Thou shalt read the darn FAQ.
+         \   |        |        |     8. Thou shalt not post someone
+         /   |  III      VIII  |         else's ASCII art without making
+         \   |        |        |         clear that you didn't make it.
+          \_ |   IV      IX    |     9. Thou shalt not assume that
+            \|        |        |         ASCII art isn't art at all.
+             |    V      X     |     10. Thou shalt read the FAQing FAQ.
+             |______b'ger______|
+
+-----------[Joris Bellenger, Colin Douthwaite, Matthew Thomas]----------

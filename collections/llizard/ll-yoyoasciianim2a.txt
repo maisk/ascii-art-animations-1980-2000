@@ -1,0 +1,491 @@
+ARGUMENTS:7:80:200:0:yoyo - llizard (ejm):#
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+:              }|           :|{
+:              }|___________:|{
+o        ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+O              }|           O|{
+\_             }|          _/|{
+  :            }|         :  |{
+\ o            }|_________o__|{
+ \       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+  O            }|         O  |{
+ /\_           }|        _/\ |{
+(   :          }|       :   )|{
+|\  :          }|_______:__/\|{
+//  o    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   `       }|     '   )  |{
+   |\   `      }|____'___/|__|{
+  / |    ojm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   '       }|     `   )  |{
+   |\ '        }|______`_/|__|{
+  / |o   ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   o       }|     o   )  |{
+   |\          }|________/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  o       }|_____o__/|__|{
+  / |    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+     O         }|       O    |{
+    /\_        }|      _/\   |{
+   (   :       }|     :   )  |{
+   |\  :       }|_____:__/|__|{
+  / |  o ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+   __O         }|       O__  |{
+    /\_        }|      _/\   |{
+   (   `       }|     '   )  |{
+   |\   `      }|____'___/|__|{
+  / |    ojm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+  \_O          }|       O_/  |{
+   /\_   o     }|  o   _/\   |{
+  (   `..'     }|  `..'   )  |{
+  |\           }|________/|__|{
+ / |     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+        Whee!! }|            |{
+  \_O     o    }| o     O_/  |{
+   /\_...'     }|  `..._/\   |{
+  (            }|         )  |{
+  |\           }|________/|__|{
+ / |     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+      o.Whee!! }|    .o      |{
+  \_O   :      }|   :   O_/  |{
+   /\_..'      }|   `.._/\   |{
+  (            }|         )  |{
+  |\           }|________/|__|{
+ / |     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+   o..  Whoa!! }|      ..o   |{
+  \_O :.       }|    .: O_/  |{
+   /\_..'      }|   `.._/\   |{
+  (            }|         )  |{
+  |\           }|________/|__|{
+ / |     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+   .o   help!  }|       o.   |{
+  ; O_\        }|     /_O,;  |{
+  `.\|         }|      |/.'  |{
+  (            }|         )  |{
+  |\           }|________/|__|{
+ / |     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+   .o   help!  }|       o.   |{
+  ; O_\        }|     /_O,;  |{
+  `.\|         }|      |/.'  |{
+  (__          }|       __)  |{
+  |  \         }|______/__|__|{
+ /       ejm   }@vvvvvvvvvvvv@{
+     \         }@VVVVVVVVVVVV@{
+   ../         }|      \..   |{
+  ; O`.        }|     .'O ;  |{
+  `.\| o AUGH! }|    o |/.'  |{
+  (__          }|       __)  |{
+  |  \         }|______/__|__|{
+ /       ejm   }@vvvvvvvvvvvv@{
+     \         }@VVVVVVVVVVVV@{
+   ../   grrr! }|      \..   |{
+  ; O`         }|      'O ;  |{
+  `.\:         }|      :/.'  |{
+  o.'          }|       `.o  |{
+   \\          }|_______//___|{
+   / \   ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+   ../         }|      \..   |{
+  ;O/`         }|      '\O;  |{
+  `.\:   Ow!   }|      :/.'  |{
+  ..'          }|       `..  |{
+ '/\           }|________/\`_|{
+ o\ \    ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+ ../           }|        \.. |{
+;O/`           }|        '\O;|{
+`.\:     Ow!   }|        :/.'|{
+..'            }|         `..|{
+//             }|__________\\|{
+|`.o     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+`_\            }|         /_'|{
+:              }|           :|{
+               }|            |{
+               }|____________|{
+...o     ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+..o      ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+.o       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+..o      ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+.o       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+..o      ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+.o       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+..o      ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+.o       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+..o      ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+O              }|           O|{
+\_             }|___________/|{
+..o      ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+O o            }|         o O|{
+\/:            }|_________:\/|{
+.'       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+o              }|           o|{
+ .             }|          . |{
+:              }|___________:|{
+.'       ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
+               }@VVVVVVVVVVVV@{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|            |{
+               }|____________|{
+         ejm   }@vvvvvvvvvvvv@{
